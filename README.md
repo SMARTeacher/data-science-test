@@ -7,7 +7,7 @@ The goal of this challenge is to test your knowledge of Data Science fundamental
 <ul>
   <li>This challenge has 5 questions to complete</li>
   <li>You must do your work utilizing a single Jupyter Notebook</li>
-  <li>Add comments as much as possible and explain what you are doing and why</li> 
+  <li>Add comments as much as possible and explain what you are doing and why</li>
   <li>It is very important that everything is explained in a clear and thorough manner</li>
   <li>Apply the appropriate models where applicable</li>
   <li>Assume your audience is non technical business users</li>
@@ -19,7 +19,6 @@ The sinking of the RMS Titanic is one of the most infamous shipwrecks in history
 
 ../datasets/train.csv
 ../datasets/test.csv
-../datasets/gender_submission.csv
 
 <b>Questions</b>
 
