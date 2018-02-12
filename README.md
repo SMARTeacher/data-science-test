@@ -4,8 +4,6 @@ The goal of this challenge is to test your knowledge of Data Science fundamental
 
 <b>Guidelines</b>
 
-CAUTION: The notebooks are not saved, please export your notebook for submission (File -> Download As)
-
 <ul>
   <li>This challenge has 5 questions to complete</li>
   <li>You must do your work utilizing a single Jupyter Notebook</li>
@@ -22,8 +20,13 @@ The sinking of the RMS Titanic is one of the most infamous shipwrecks in history
 ../datasets/data.csv
 
 <b> Getting Started </b>
+
+You have been provided a link to a Binder to create a notebook. If you already have Jupyter it is recommended to use your own environment.
+
+CAUTION: The notebooks are not saved, please export your notebook for submission (File -> Download As).
+
 Give your notebook a title with your full name included Import any libraries you may need
-  
+
 <b>Questions</b>
 
 1. Understanding and visualizing the data
@@ -39,10 +42,10 @@ Explain the relationships you have found in the data. Assume the audience is non
 
 3. How did you handle the missing or bad data?
 
-4. What are the tradeoffs of your imputation techniques? 
+4. What are the tradeoffs of the impute techniques used in your analysis?
 
-5. Build a model. 
-  a) How did you verify? 
+5. Build a model.
+  a) How did you verify?
   b) What was the accuracy?
   c) How efficient was it?
 

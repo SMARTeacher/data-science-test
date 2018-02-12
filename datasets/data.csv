@@ -1,0 +1,1314 @@
+,Row Names,pclass,Name,Age,Embarked,Current Home Destination,Room,Ticket #,Boat #,Gender,Had Chronic Illness (Y/N),Birth Town,Birth Town,Survived (Y/N)
+0,1,1st,"Allen, Miss Elisabeth Walton",29,Southampton,"St Louis, MO",B-5,24160 L221,2,female,N,SANTA MONICA,UNITED STATES,Y
+1,2,1st,"Allison, Miss Helen Loraine",2,Southampton,"Montreal, PQ / Chesterville, ON",C26,,,female,Y,VANCOUVER,BRITISH COLUMBIA,N
+2,3,1st,"Allison, Mr Hudson Joshua Creighton",30,Southampton,"Montreal, PQ / Chesterville, ON",C26,,-135,male,Y,LONDON,UNITED KINGDOM,N
+3,4,1st,"Allison, Mrs Hudson J.C. (Bessie Waldo Daniels)",25,Southampton,"Montreal, PQ / Chesterville, ON",C26,,,female,Y,BEIJING,CHINA,N
+4,5,1st,"Allison, Master Hudson Trevor",0.9167,Southampton,"Montreal, PQ / Chesterville, ON",C22,,11,male,Y,,,Y
+5,6,1st,"Anderson, Mr Harry",47,Southampton,"New York, NY",E-12,,3,male,N,,,Y
+6,7,1st,"Andrews, Miss Kornelia Theodosia",63,Southampton,"Hudson, NY",D-7,13502 L77,10,female,Y,HONOLULU,HAWAII,Y
+7,8,1st,"Andrews, Mr Thomas, jr",39,Southampton,"Belfast, NI",A-36,,,male,Y,LONDON,UNITED KINGDOM,N
+8,9,1st,"Appleton, Mrs Edward Dale (Charlotte Lamson)",58,Southampton,"Bayside, Queens, NY",C-101,,2,female,Y,SANTA MONICA,UNITED STATES,Y
+9,10,1st,"Artagaveytia, Mr Ramon",71,Cherbourg,"Montevideo, Uruguay",,,-22,male,N,LONDON,UNITED KINGDOM,N
+10,11,1st,"Astor, Colonel John Jacob",47,Cherbourg,"New York, NY",,17754 L224 10s 6d,-124,male,N,RIO DE JANEIRO,BRAZIL,N
+11,12,1st,"Astor, Mrs John Jacob (Madeleine Talmadge Force)",19,Cherbourg,"New York, NY",,17754 L224 10s 6d,4,female,Y,CAPE TOWN,SOUTH AFRICA,Y
+12,13,1st,"Aubert, Mrs Leontine Pauline",,Cherbourg,"Paris, France",B-35,17477 L69 6s,9,female,Y,EDINBURGH,SCOTLAND,Y
+13,14,1st,"Barkworth, Mr Algernon H.",,Southampton,"Hessle, Yorks",A-23,,B,male,N,MONTREAL,CANADA,Y
+14,15,1st,"Baumann, Mr John D.",,Southampton,"New York, NY",,,,male,N,VANCOUVER,BRITISH COLUMBIA,N
+15,16,1st,"Baxter, Mrs James (Helene DeLaudeniere Chaput)",50,Cherbourg,"Montreal, PQ",B-58/60,,6,female,Y,RIO DE JANEIRO,BRAZIL,Y
+16,17,1st,"Baxter, Mr Quigg Edmond",24,Cherbourg,"Montreal, PQ",B-58/60,,,male,N,MONTREAL,CANADA,N
+17,18,1st,"Beattie, Mr Thomson",36,Cherbourg,"Winnipeg, MN",C-6,,,male,N,ISTANBUL,TURKEY,N
+18,19,1st,"Beckwith, Mr Richard Leonard",37,Southampton,"New York, NY",D-35,,5,male,Y,ISTANBUL,TURKEY,Y
+19,20,1st,"Beckwith, Mrs Richard Leonard (Sallie Monypeny)",47,Southampton,"New York, NY",D-35,,5,female,N,VANCOUVER,BRITISH COLUMBIA,Y
+20,21,1st,"Behr, Mr Karl Howell",26,Cherbourg,"New York, NY",C-148,,5,male,N,HONOLULU,HAWAII,Y
+21,22,1st,"Birnbaum, Mr Jakob",25,Cherbourg,"San Francisco, CA",,,-148,male,Y,HONG KONG,CHINA,N
+22,23,1st,"Bishop, Mr Dickinson H.",25,Cherbourg,"Dowagiac, MI",B-49,,7,male,Y,TEL AVIV,ISRAEL,Y
+23,24,1st,"Bishop, Mrs Dickinson H. (Helen Walton)",19,Cherbourg,"Dowagiac, MI",B-49,,7,female,Y,RIO DE JANEIRO,BRAZIL,Y
+24,25,1st,"Bjornstrm-Steffansson, Mr Mauritz Hakan",28,Southampton,"Stockholm, Sweden / Washington, DC",,,D,male,N,RIO DE JANEIRO,BRAZIL,Y
+25,26,1st,"Blackwell, Mr Stephen Weart",45,Southampton,"Trenton, NJ",,,-241,male,N,BEIJING,CHINA,N
+26,27,1st,"Blank, Mr Henry",39,Cherbourg,"Glen Ridge, NJ",A-31,,7,male,Y,CAPE TOWN,SOUTH AFRICA,Y
+27,28,1st,"Bonnell, Miss Caroline",30,Southampton,"Youngstown, OH",C-7,,8,female,N,KUALA LUMPUR,MALAYSIA,Y
+28,29,1st,"Bonnell, Miss Elizabeth",58,Southampton,"Birkdale, England Cleveland, Ohio",C-103,,8,female,N,NEW YORK,UNITED STATES,Y
+29,30,1st,"Borebank, Mr John James",,Southampton,"London / Winnipeg, MB",D-21/2,,,male,N,LONDON,UNITED KINGDOM,N
+30,31,1st,"Bowen, Miss Grace Scott",45,Cherbourg,"Cooperstown, NY",,,4,female,Y,SYDNEY,AUSTRALIA,Y
+31,32,1st,"Bowerman, Miss Elsie Edith",22,Southampton,"St Leonards-on-Sea, England Ohio",,,6,female,N,,,Y
+32,33,1st,"Bradley, Mr George",,Southampton,"Los Angeles, CA",,,15,male,N,BARCELONA,SPAIN,Y
+33,34,1st,"Brady, Mr John Bertram",41,Southampton,"Pomeroy, WA",,,,male,N,BEIJING,CHINA,N
+34,35,1st,"Brandeis, Mr Emil",48,Cherbourg,"Omaha, NE",,17591 L50 9s 11d,-208,male,N,CHICAGO,UNITED STATES,N
+35,36,1st,"Brewe, Dr Arthur Jackson",,Cherbourg,"Philadelphia, PA",,,,male,Y,KUALA LUMPUR,MALAYSIA,N
+36,37,1st,"Brown, Mrs James Joseph (Margaret Molly"" Tobin)""",44,Cherbourg,"Denver, CO",,17610 L27 15s 5d,6,female,N,CHICAGO,UNITED STATES,Y
+37,38,1st,"Brown, Mrs John Murray (Caroline Lane Lamson)",59,Southampton,"Belmont, MA",C-101,,D,female,Y,RIO DE JANEIRO,BRAZIL,Y
+38,39,1st,"Bucknell, Mrs William Robert (Emma Eliza Ward)",60,Cherbourg,"Philadelphia, PA",,,8,female,Y,ISTANBUL,TURKEY,Y
+39,40,1st,"Butt, Major Archibald Willingham",45,Southampton,"Washington, DC",,,,male,N,,,N
+40,41,1st,"Calderhead, Mr Edward P.",,Southampton,"New York, NY",,,07-May,male,N,,,Y
+41,42,1st,"Candee, Mrs Edward (Helen Churchill Hungerford)",53,Cherbourg,"Washington, DC",,,6,female,Y,MIAMI BEACH,FLORIDA,Y
+42,43,1st,"Cardeza, Mrs James Warburton Martinez (Charlotte Wardle Drake)",58,Cherbourg,"Germantown, Philadelphia, PA",B-51/3/5,17755 L512 6s,3,female,Y,HONOLULU,HAWAII,Y
+43,44,1st,"Cardeza, Mr Thomas Drake Martinez",36,Cherbourg,"Austria-Hungary / Germantown, Philadelphia, PA",B-51/3/5,17755 L512 6s,3,male,N,MIAMI BEACH,FLORIDA,Y
+44,45,1st,"Carlsson, Mr Frans Olof",33,Southampton,"New York, NY",,,,male,Y,,,N
+45,46,1st,"Carrau, Mr Francisco M.",,Southampton,"Montevideo, Uruguay",,,,male,Y,TEL AVIV,ISRAEL,N
+46,47,1st,"Carrau, Mr Jose Pedro",,Southampton,"Montevideo, Uruguay",,,,male,Y,KUALA LUMPUR,MALAYSIA,N
+47,48,1st,"Carter, Mr William Ernest",36,Southampton,"Bryn Mawr, PA",,,C,male,Y,HONOLULU,HAWAII,Y
+48,49,1st,"Carter, Mrs William Ernest (Lucile Polk)",36,Southampton,"Bryn Mawr, PA",,,4,female,Y,MIAMI BEACH,FLORIDA,Y
+49,50,1st,"Carter, Miss Lucile Polk",14,Southampton,"Bryn Mawr, PA",,,4,female,N,HONOLULU,HAWAII,Y
+50,51,1st,"Carter, Master William T. II",11,Southampton,"Bryn Mawr, PA",,,4,male,Y,SANTA MONICA,UNITED STATES,Y
+51,52,1st,"Case, Mr Howard Brown",49,Southampton,"Ascot, Berkshire / Rochester, NY",,,,male,N,KUALA LUMPUR,MALAYSIA,N
+52,53,1st,"Cassebeer, Mrs Henry Arthur jr (Genevieve Fosdick)",,Cherbourg,"New York, NY",,,5,female,Y,RIO DE JANEIRO,BRAZIL,Y
+53,54,1st,"Cavendish, Mr Tyrell William",36,Southampton,"Little Onn Hall, Staffs",,,-172,male,N,MONTREAL,CANADA,N
+54,55,1st,"Cavendish, Mrs Tyrell William Julia Florence Siegel",,Southampton,"Little Onn Hall, Staffs",,,6,female,Y,SANTA MONICA,UNITED STATES,Y
+55,56,1st,"Chaffee, Mr Herbert Fuller",46,Southampton,"Amenia, ND",,,,male,N,RIO DE JANEIRO,BRAZIL,N
+56,57,1st,"Chaffee, Mrs Herbert Fuller (Carrie Constance Toogood)",47,Southampton,"Amenia, ND",,,,female,N,BEIJING,CHINA,Y
+57,58,1st,"Chambers, Mr Norman Campbell",27,Southampton,"New York, NY / Ithaca, NY",,,5,male,Y,BARCELONA,SPAIN,Y
+58,59,1st,"Chambers, Mrs Norman Campbell (Bertha Griggs)",31,Southampton,"New York, NY / Ithaca, NY",,,5,female,Y,CHICAGO,UNITED STATES,Y
+59,60,1st,"Cherry, Miss Gladys",,Southampton,"London, England",,,8,female,N,NICE,FRANCE,Y
+60,61,1st,"Chevre, Mr Paul",,Cherbourg,"Paris, France",,,7,male,N,,,Y
+61,62,1st,"Chibnall (Bowerman), Mrs Edith Martha",,Southampton,"St Leonards-on-Sea, England Ohio",,,6,female,N,EDINBURGH,SCOTLAND,Y
+62,63,1st,"Chisholm, Mr Roderick Robert",,,"Liverpool, England / Belfast",,,,male,N,,,N
+63,64,1st,"Clark, Mr Walter Miller",27,Cherbourg,"Los Angeles, CA",C-87,,,male,N,CAPE TOWN,SOUTH AFRICA,N
+64,65,1st,"Clark, Mrs Walter Miller (Virginia McDowell)",26,Cherbourg,"Los Angeles, CA",C-87,,4,female,Y,EDINBURGH,SCOTLAND,Y
+65,66,1st,"Clifford, Mr George Quincy",,Southampton,"Stoughton, MA",,,,male,N,VANCOUVER,BRITISH COLUMBIA,N
+66,67,1st,"Colley, Mr Edward Pomeroy",,Southampton,"Victoria, BC",,,,male,N,HONG KONG,CHINA,N
+67,68,1st,"Compton, Mrs Alexander Taylor (Mary Eliza Ingersoll)",64,Cherbourg,"Lakewood, NJ",,,14,female,Y,,,Y
+68,69,1st,"Compton, Mr Alexander Taylor, Jr",37,Cherbourg,"Lakewood, NJ",,,,male,N,NEW YORK,UNITED STATES,N
+69,70,1st,"Compton, Miss Sara Rebecca",39,Cherbourg,"Lakewood, NJ",,,14,female,Y,,,Y
+70,71,1st,"Cornell, Mrs Robert Clifford (Malvina Helen Lamson)",55,Southampton,"New York, NY",C-101,,2,female,Y,LONDON,UNITED KINGDOM,Y
+71,72,1st,"Crafton, Mr John Bertram",,Southampton,"Roachdale, IN",,,,male,N,ISTANBUL,TURKEY,N
+72,73,1st,"Crosby, Captain Edward Gifford",70,Southampton,"Milwaukee, WI",,,-269,male,Y,HONOLULU,HAWAII,N
+73,74,1st,"Crosby, Mrs Edward Gifford (Catherine Elizabeth Halstead)",69,Southampton,"Milwaukee, WI",,,5,female,N,KUALA LUMPUR,MALAYSIA,Y
+74,75,1st,"Crosby, Miss Harriet R.",36,Southampton,"Milwaukee, WI",,,5,female,N,TEL AVIV,ISRAEL,Y
+75,76,1st,"Cumings, Mr John Bradley",39,Cherbourg,"New York, NY",C-85,,,male,N,MONTREAL,CANADA,N
+76,77,1st,"Cumings, Mrs John Bradley (Florence Briggs Thayer)",38,Cherbourg,"New York, NY",C-85,,4,female,N,SANTA MONICA,UNITED STATES,Y
+77,78,1st,"Daly, Mr Peter Denis ",,Southampton,"Lima, Peru",,,A,male,N,CAPE TOWN,SOUTH AFRICA,Y
+78,79,1st,"Daniel, Mr Robert Williams",27,Southampton,"Philadelphia, PA",,,7,male,Y,CAPE TOWN,SOUTH AFRICA,Y
+79,80,1st,"Davidson, Mr Thornton",31,Southampton,"Montreal, PQ",,,,male,Y,ISTANBUL,TURKEY,N
+80,81,1st,"Davidson, Mrs Thornton (Orian Hays)",27,Southampton,"Montreal, PQ",,,3,female,N,MIAMI BEACH,FLORIDA,Y
+81,82,1st,"de Villiers, Madame Berthe",,Cherbourg,"Belgium  Montreal, PQ",,,6,female,N,NICE,FRANCE,Y
+82,83,1st,"Dick, Mr Albert Adrian",31,Cherbourg,"Calgary, AB",,,3,male,Y,VANCOUVER,BRITISH COLUMBIA,Y
+83,84,1st,"Dick, Mrs Albert Adrian Vera Gillespie",17,Cherbourg,"Calgary, AB",,,3,female,Y,VANCOUVER,BRITISH COLUMBIA,Y
+84,85,1st,"Dodge, Dr. Washington",,Southampton,"San Francisco, CA",,,13,male,Y,,,Y
+85,86,1st,"Dodge, Mrs Washington (Ruth Vidaver)",,Southampton,"San Francisco, CA",,,07-May,female,N,NICE,FRANCE,Y
+86,87,1st,"Dodge, Master Washington",4,Southampton,"San Francisco, CA",,,07-May,male,Y,VANCOUVER,BRITISH COLUMBIA,Y
+87,88,1st,"Douglas, Mrs Frederick Charles (Suzette Baxter)",27,Cherbourg,"Montreal, PQ",,,6,female,Y,VANCOUVER,BRITISH COLUMBIA,Y
+88,89,1st,"Douglas, Mr Walter Donald",50,Cherbourg,"Deephaven, MN / Cedar Rapids, IA",,,-62,male,N,BEIJING,CHINA,N
+89,90,1st,"Douglas, Mrs Walter Donald (Mahala Dutton)",48,Cherbourg,"Deephaven, MN / Cedar Rapids, IA",,,2,female,N,MONTREAL,CANADA,Y
+90,91,1st,"Duff Gordon, Sir Cosmo Edmund",49,Cherbourg,London / Paris,,11755 L39 12s,1,male,Y,RIO DE JANEIRO,BRAZIL,Y
+91,92,1st,"Duff Gordon, Lady (Lucille Wallace Sutherland)",48,Cherbourg,London / Paris,,17485 L56 18s 7d,1,female,Y,KUALA LUMPUR,MALAYSIA,Y
+92,93,1st,"Dulles, Mr William Crothers",39,Cherbourg,"Philadelphia, PA",,,-133,male,Y,EDINBURGH,SCOTLAND,N
+93,94,1st,"Earnshaw, Mrs Boulton (Olive Potter)",23,Cherbourg,"Mt Airy, Philadelphia, PA",,,7,female,Y,VANCOUVER,BRITISH COLUMBIA,Y
+94,95,1st,"Eustis, Miss Elizabeth Mussey",53,Cherbourg,"Brookline, MA",,,4,female,N,,,Y
+95,96,1st,"Evans, Miss Edith Corse",36,Cherbourg,"New York, NY",,,,female,N,,,N
+96,97,1st,"Flegenheim, Mrs Alfred (Antoinette)",,Cherbourg,"New York, NY",,,7,female,N,SANTA MONICA,UNITED STATES,Y
+97,98,1st,"Flynn, Mr John Irving",,Southampton,"Brooklyn, NY",,,07-May,male,Y,,,Y
+98,99,1st,"Foreman, Mr Benjamin Laventall",30,Cherbourg,"New York, NY",,,,male,N,EDINBURGH,SCOTLAND,N
+99,100,1st,"Fortune, Miss Alice Elizabeth",24,Southampton,"Winnipeg, MB",,,10,female,Y,VANCOUVER,BRITISH COLUMBIA,Y
+100,101,1st,"Fortune, Mr Charles Alexander",19,Southampton,"Winnipeg, MB",,,,male,N,MONTREAL,CANADA,N
+101,102,1st,"Fortune, Miss Ethel Flora",28,Southampton,"Winnipeg, MB",,,10,female,Y,SANTA MONICA,UNITED STATES,Y
+102,103,1st,"Fortune, Miss Mabel",23,Southampton,"Winnipeg, MB",,,10,female,N,CHICAGO,UNITED STATES,Y
+103,104,1st,"Fortune, Mr Mark",64,Southampton,"Winnipeg, MB",,,,male,N,KUALA LUMPUR,MALAYSIA,N
+104,105,1st,"Fortune, Mrs Mark (Mary McDougald)",60,Southampton,"Winnipeg, MB",,,10,female,Y,RIO DE JANEIRO,BRAZIL,Y
+105,106,1st,"Franklin, Mr Thomas Parham",,Southampton,"Westcliff-on-Sea, Essex",,,,male,N,SYDNEY,AUSTRALIA,N
+106,107,1st,"Frauenthal, Dr Henry William",49,Cherbourg,"New York, NY",,,5,male,Y,ISTANBUL,TURKEY,Y
+107,108,1st,"Frauenthal, Mrs Henry William (Clara Heinsheimer)",,Cherbourg,"New York, NY",,,5,female,Y,HONG KONG,CHINA,Y
+108,109,1st,"Frauenthal, Mr Isaac Gerald",44,Southampton,"New York, NY",,,5,male,N,EDINBURGH,SCOTLAND,Y
+109,110,1st,"Frolicher, Miss Marguerite",22,Cherbourg,"Zurich, Switzerland",,,5,female,N,MIAMI BEACH,FLORIDA,Y
+110,111,1st,"Frolicher-Stehli, Mr Maxmillian",60,Cherbourg,"Zurich, Switzerland",,,5,male,Y,RIO DE JANEIRO,BRAZIL,Y
+111,112,1st,"Frolicher-Stehli, Mrs Maxmillian (Margaretha Emerentia Stehli)",48,Cherbourg,"Zurich, Switzerland",,,5,female,Y,SYDNEY,AUSTRALIA,Y
+112,113,1st,"Futrelle, Mr Jacques",37,Southampton,"Scituate, MA",,,,male,N,CHICAGO,UNITED STATES,N
+113,114,1st,"Futrelle, Mrs Jacques (May Peel)",35,Southampton,"Scituate, MA",,,9,female,N,VANCOUVER,BRITISH COLUMBIA,Y
+114,115,1st,"Gee, Mr Arthur H.",47,Southampton,"St Anne's-on-Sea, Lancashire",,,-275,male,Y,ISTANBUL,TURKEY,N
+115,116,1st,"Gibson, Miss Dorothy",22,Cherbourg,"New York, NY",,,7,female,N,SANTA MONICA,UNITED STATES,Y
+116,117,1st,"Gibson, Mrs Leonard (Pauline C. Boeson)",45,Cherbourg,"New York, NY",,,7,female,N,BEIJING,CHINA,Y
+117,118,1st,"Goldenberg, Mr Samuel L.",49,Cherbourg,"Paris, France / New York, NY",,,5,male,N,EDINBURGH,SCOTLAND,Y
+118,119,1st,"Goldenberg, Mrs Samuel L. (Edwiga Grabowsko)",,Cherbourg,"Paris, France / New York, NY",,,5,female,N,SYDNEY,AUSTRALIA,Y
+119,120,1st,"Goldschmidt, Mr George B.",71,Cherbourg,"New York, NY",,,,male,N,NEW YORK,UNITED STATES,N
+120,121,1st,"Gracie, Colonel Archibald IV",54,Southampton,"Washington, DC",C-51,113780 L28 10s,B,male,N,,,Y
+121,122,1st,"Graham, Mr George Edward",38,Southampton,"Winnipeg, MB",,,-147,male,N,,,N
+122,123,1st,"Graham, Miss Margaret Edith",19,Southampton,"Greenwich, CT",C-125,17582 L153 9s 3d,3,female,N,BEIJING,CHINA,Y
+123,124,1st,"Graham, Mrs William Thompson (Edith Junkins)",58,Southampton,"Greenwich, CT",C-91,17582 L153 9s 3d,3,female,N,KUALA LUMPUR,MALAYSIA,Y
+124,125,1st,"Greenfield, Mrs Leo David (Blanche Strouse)",45,Cherbourg,"New York, NY",,,7,female,Y,EDINBURGH,SCOTLAND,Y
+125,126,1st,"Greenfield, Mr William Bertram",23,Cherbourg,"New York, NY",,,7,male,Y,KUALA LUMPUR,MALAYSIA,Y
+126,127,1st,"Guggenheim, Mr Benjamin",46,Cherbourg,"New York, NY",B-82/4,17593 L56 18s 7d,,male,N,CAPE TOWN,SOUTH AFRICA,N
+127,128,1st,"Harder, Mr George Achilles",25,Cherbourg,"Brooklyn, NY",,,5,male,Y,TEL AVIV,ISRAEL,Y
+128,129,1st,"Harder, Mrs George Achilles (Dorothy Annan)",21,Cherbourg,"Brooklyn, NY",,,5,female,N,VANCOUVER,BRITISH COLUMBIA,Y
+129,130,1st,"Harper, Mr Henry Sleeper",48,Cherbourg,"New York, NY",,,3,male,Y,,,Y
+130,131,1st,"Harper, Mrs Henry Sleeper (Myna Haxtun)",49,Cherbourg,"New York, NY",,,3,female,N,CAPE TOWN,SOUTH AFRICA,Y
+131,132,1st,"Harris, Mr Henry Birkhardt",45,Southampton,"New York, NY",C-83,36973 L83 9s 6d,,male,N,,,N
+132,133,1st,"Harris, Mrs Henry Birkhardt (Irene Wallach)",36,Southampton,"New York, NY",C-83,36973 L83 9s 6d,D,female,N,NICE,FRANCE,Y
+133,134,1st,"Hawksford, Mr Walter James",,Southampton,"Kingston, Surrey",,,3,male,Y,EDINBURGH,SCOTLAND,Y
+134,135,1st,"Hays, Mr Charles Melville",55,Southampton,"Montreal, PQ",,,-307,male,N,,,N
+135,136,1st,"Hays, Mrs Charles Melville (Clara Jennings Gregg)",52,Southampton,"Montreal, PQ",,,3,female,Y,,,Y
+136,137,1st,"Hays, Miss Margaret Bechstein",24,Southampton,"New York, NY",,,7,female,N,,,Y
+137,138,1st,"Head, Mr Christopher",,Southampton,London / Middlesex,,,,male,N,NICE,FRANCE,N
+138,139,1st,"Hilliard, Mr Herbert Henry",,Southampton,"Brighton, MA",,,,male,Y,LONDON,UNITED KINGDOM,N
+139,140,1st,"Hipkins, Mr William Edward",,Southampton,London / Birmingham,,,,male,Y,LONDON,UNITED KINGDOM,N
+140,141,1st,"Hippach, Miss Jean Gertrude",16,Cherbourg,"Chicago, IL",B-18,111361 L57 19s 7d,4,female,Y,,,Y
+141,142,1st,"Hippach, Mrs Louis Albert (Ida Sophia Fischer)",44,Cherbourg,"Chicago, IL",B-18,111361 L57 19s 7d,4,female,N,HONG KONG,CHINA,Y
+142,143,1st,"Hogeboom, Mrs John C. (Anna Andrews)",51,Southampton,"Hudson, NY",D-?,13502 L77,10,female,Y,TEL AVIV,ISRAEL,Y
+143,144,1st,"Holverson, Mr Alexander Oskar",42,Southampton,"New York, NY",,,-38,male,N,,,N
+144,145,1st,"Holverson, Mrs Alexander Oskar (Mary Aline Towner)",35,Southampton,"New York, NY",,,,female,N,BARCELONA,SPAIN,Y
+145,146,1st,"Homer, Mr Harry",35,Cherbourg,"Indianapolis, IN",,,15,male,Y,VANCOUVER,BRITISH COLUMBIA,Y
+146,147,1st,"Hoyt, Mr Frederick Maxfield",38,Southampton,"New York, NY /  Stamford CT",C-93,,D,male,Y,RIO DE JANEIRO,BRAZIL,Y
+147,148,1st,"Hoyt, Mrs Frederick Maxfield (Jane Anne Forby)",35,Southampton,"New York, NY /  Stamford CT",C-93,,D,female,Y,EDINBURGH,SCOTLAND,Y
+148,149,1st,"Hoyt, Mr William F.",,Cherbourg,"New York, NY",,,14,male,Y,,,N
+149,150,1st,"Isham, Miss Anne Elizabeth",50,Cherbourg,"Paris, France New York, NY",C-49,,,female,Y,HONG KONG,CHINA,N
+150,151,1st,"Ismay, Mr Joseph Bruce",49,Southampton,Liverpool,B-52/4/6,112058 Complimentary,C,male,N,SANTA MONICA,UNITED STATES,Y
+151,152,1st,"Jones, Mr Charles Cresson",46,Southampton,"Bennington, VT",,,-80,male,N,KUALA LUMPUR,MALAYSIA,N
+152,153,1st,"Julian, Mr Henry Forbes",,Southampton,London,,,,male,N,KUALA LUMPUR,MALAYSIA,N
+153,154,1st,"Kent, Mr Edward Austin",58,Cherbourg,"Buffalo, NY",,,-258,male,N,CHICAGO,UNITED STATES,N
+154,155,1st,"Kenyon, Mr Frederick R.",41,Southampton,"Southington / Noank, CT",,,,male,Y,BEIJING,CHINA,N
+155,156,1st,"Kenyon, Mrs Frederick R. (Marion)",,Southampton,"Southington / Noank, CT",,,8,female,Y,,,Y
+156,157,1st,"Kimball, Mr Edwin Nelson Jr.",42,Southampton,"Boston, MA",,,5,male,N,TEL AVIV,ISRAEL,Y
+157,158,1st,"Kimball, Mrs Edwin Nelson Jr. (Gertrude Parsons)",40,Southampton,"Boston, MA",,,5,female,Y,CAPE TOWN,SOUTH AFRICA,Y
+158,159,1st,"Klaber, Mr Herman",,Southampton,"Portland, OR",,,,male,N,,,N
+159,160,1st,"Leader, Dr Alice Farnham",,Southampton,"New York, NY",,,8,female,N,HONOLULU,HAWAII,Y
+160,161,1st,"Lewy, Mr Ervin G.",,Cherbourg,"Chicago, IL",,,,male,Y,ISTANBUL,TURKEY,N
+161,162,1st,"Lindeberg-Lind, Mr Erik Gustaf",42,Southampton,"Stockholm, Sweden",,,,male,N,ISTANBUL,TURKEY,N
+162,163,1st,"Lindstrom, Mrs Carl Johan (Sigrid Posse)",55,Cherbourg,"Stockholm, Sweden",,,6,female,N,SANTA MONICA,UNITED STATES,Y
+163,164,1st,"Lines, Mrs Ernest H. (Elizabeth Lindsey James)",50,Cherbourg,"Paris, France",,,9,female,Y,VANCOUVER,BRITISH COLUMBIA,Y
+164,165,1st,"Lines, Miss Mary Conover",16,Cherbourg,"Paris, France",,,9,female,N,NICE,FRANCE,Y
+165,166,1st,"Lingrey, Mr Edward",,,,,,,male,N,EDINBURGH,SCOTLAND,N
+166,167,1st,"Long, Mr Milton Clyde",29,Southampton,"Springfield, MA",,,-126,male,N,,,N
+167,168,1st,"Longley, Miss Gretchen Fiske",21,Southampton,"Hudson, NY",D-?,13502 L77,10,female,Y,,,Y
+168,169,1st,"Loring, Mr Joseph Holland",30,Southampton,"London / New York, NY",,,,male,Y,,,N
+169,170,1st,"Madill, Miss Georgette Alexandra",15,Southampton,"St Louis, MO",B-5,24160 L221,2,female,N,SANTA MONICA,UNITED STATES,Y
+170,171,1st,"Maguire, Mr John Edward",30,Southampton,"Brockton, MA",,,,male,Y,KUALA LUMPUR,MALAYSIA,N
+171,172,1st,"Marechal, Mr Pierre",,Cherbourg,"Paris, France",,,7,male,Y,SANTA MONICA,UNITED STATES,Y
+172,173,1st,"Marvin, Mr Daniel Warner",,Southampton,"New York, NY",,,,male,Y,KUALA LUMPUR,MALAYSIA,N
+173,174,1st,"Marvin, Mrs Daniel Warner (Mary Graham Carmichael Farquarson)",,Southampton,"New York, NY",,,,female,Y,SANTA MONICA,UNITED STATES,Y
+174,175,1st,"McCaffry, Mr Thomas Francis",46,Cherbourg,"Vancouver, BC",,,-292,male,Y,CHICAGO,UNITED STATES,N
+175,176,1st,"McCarthy, Mr Timothy J.",54,Southampton,"Dorchester, MA",,,-175,male,Y,TEL AVIV,ISRAEL,N
+176,177,1st,"McGough, Mr James R.",36,Southampton,"Philadelphia, PA",,,7,male,Y,SYDNEY,AUSTRALIA,Y
+177,178,1st,"Meyer, Mr Edgar Joseph",28,Cherbourg,"New York, NY",,,,male,N,EDINBURGH,SCOTLAND,N
+178,179,1st,"Meyer, Mrs Edgar Joseph (Leila Saks)",,Cherbourg,"New York, NY",,,6,female,N,,,Y
+179,180,1st,"Millet, Mr Francis Davis",65,Southampton,"East Bridgewater, MA",,,-249,male,N,CHICAGO,UNITED STATES,N
+180,181,1st,"Minahan, Miss Daisy E.",33,Queenstown,"Green Bay, WI",,,14,female,Y,HONG KONG,CHINA,Y
+181,182,1st,"Minahan, Dr William Edward",44,Queenstown,"Fond du Lac, WI",,,-230,male,N,,,N
+182,183,1st,"Minahan, Mrs William Edward (Lillian E. Thorpe)",37,Queenstown,"Fond du Lac, WI",,,14,female,Y,TEL AVIV,ISRAEL,Y
+183,184,1st,"Mock, Mr Philip E.",,Cherbourg,"New York, NY",,,11,male,N,NEW YORK,UNITED STATES,Y
+184,185,1st,"Molson, Mr Harry Markland",55,Southampton,"Montreal, PQ",,,,male,Y,KUALA LUMPUR,MALAYSIA,N
+185,186,1st,"Moore, Mr Clarence Bloomfield",47,Southampton,"Washington, DC",,,,male,N,KUALA LUMPUR,MALAYSIA,N
+186,187,1st,"Natsch, Mr Charles H.",36,Cherbourg,"Brooklyn, NY",,,,male,N,ISTANBUL,TURKEY,N
+187,188,1st,"Newell, Mr Arthur Webster",58,Cherbourg,"Lexington, MA",,,-122,male,N,CHICAGO,UNITED STATES,N
+188,189,1st,"Newell, Miss Madeleine",31,Cherbourg,"Lexington, MA",,,6,female,N,HONOLULU,HAWAII,Y
+189,190,1st,"Newell, Miss Marjorie",23,Cherbourg,"Lexington, MA",,,6,female,N,BARCELONA,SPAIN,Y
+190,191,1st,"Newsom, Miss Helen Monypeny",19,Southampton,"New York, NY",,,5,female,Y,NICE,FRANCE,Y
+191,192,1st,"Nicholson, Mr Arthur Ernest",64,Southampton,"Isle of Wight, England",,,-263,male,Y,RIO DE JANEIRO,BRAZIL,N
+192,193,1st,"Omont, Mr A. Fernand",,Cherbourg,"Paris, France",,,7,male,Y,NEW YORK,UNITED STATES,Y
+193,194,1st,"Ostby, Mr Engelhart Cornelius",64,Cherbourg,"Providence, RI",,,-234,male,Y,EDINBURGH,SCOTLAND,N
+194,195,1st,"Ostby, Miss Helen Raghnild",22,Cherbourg,"Providence, RI",,,5,female,Y,CAPE TOWN,SOUTH AFRICA,Y
+195,196,1st,"Ovies y Rodriguez, Mr Servando",28,,"?Havana, Cuba",,,-189,male,N,KUALA LUMPUR,MALAYSIA,N
+196,197,1st,"Parr, Mr William Henry Marsh",,,Belfast,,,,male,Y,CHICAGO,UNITED STATES,N
+197,198,1st,"Partner, Mr Austin",,Southampton,"Surbiton Hill, Surrey",,,-166,male,Y,KUALA LUMPUR,MALAYSIA,N
+198,199,1st,"Payne, Mr Vivian Ponsonby",22,Southampton,"Montreal, PQ",,,,male,N,KUALA LUMPUR,MALAYSIA,N
+199,200,1st,"Pears, Mr Thomas",,Southampton,"Isleworth, England",,,,male,N,HONOLULU,HAWAII,N
+200,201,1st,"Pears, Mrs Thomas (Edith)",,Southampton,"Isleworth, England",,,8,female,Y,SYDNEY,AUSTRALIA,Y
+201,202,1st,"Penasco, Mr Victor de Satode",18,Cherbourg,"Madrid, Spain",,,,male,N,VANCOUVER,BRITISH COLUMBIA,N
+202,203,1st,"Penasco, Mrs Victor de Satode (Josefa de Soto)",17,Cherbourg,"Madrid, Spain",,,8,female,Y,MONTREAL,CANADA,Y
+203,204,1st,"Peuchen, Major Arthur Godfrey",52,Southampton,"Toronto, ON",C-104,,6,male,N,SANTA MONICA,UNITED STATES,Y
+204,205,1st,"Porter, Mr Walter Chamberlain",46,Southampton,"Worcester, MA",,,-207,male,Y,HONG KONG,CHINA,N
+205,206,1st,"Potter, Mrs Thomas, Jr. (Lily Alexenia Wilson)",56,Cherbourg,"Mt Airy, Philadelphia, PA",,,7,female,Y,BARCELONA,SPAIN,Y
+206,207,1st,"Reuchlin, Jonkheer John George",,Southampton,"Rotterdam, Netherlands",,,,male,N,ISTANBUL,TURKEY,N
+207,208,1st,"Rheims, Mr George Lucien",,Cherbourg,"Paris /  New York, NY",,17604 L39 12s,A,male,N,EDINBURGH,SCOTLAND,Y
+208,209,1st,"Robert, Mrs Edward Scott (Elisabeth Walton McMillan)",43,Southampton,"St Louis, MO",B-3,24160 L221,2,female,N,NICE,FRANCE,Y
+209,210,1st,"Roebling, Mr Washington Augustus 2nd",31,Southampton,"Trenton, NJ",,,,male,N,RIO DE JANEIRO,BRAZIL,N
+210,211,1st,"Romaine, Mr Charles Hallace",,Southampton,"New York, NY",,,15,male,N,RIO DE JANEIRO,BRAZIL,Y
+211,212,1st,"Rood, Mr Hugh R.",,Southampton,"Seattle, WA",,,,male,N,HONOLULU,HAWAII,N
+212,213,1st,"Rosenbaum (Russell), Miss Edith Louise",33,Cherbourg,"Paris, France",A-11,17613 L27 14s 5d,11,female,Y,VANCOUVER,BRITISH COLUMBIA,Y
+213,214,1st,"Ross, Mr John Hugo",,Cherbourg,"Winnipeg, MB",,,,male,N,,,N
+214,215,1st,"Rothes, the Countess of (Noel Lucy Martha Dyer-Edwardes)",27,Southampton,"London  Vancouver, BC",,,8,female,N,TEL AVIV,ISRAEL,Y
+215,216,1st,"Rothschild, Mr Martin",55,Cherbourg,"New York, NY",,,,male,N,CHICAGO,UNITED STATES,N
+216,217,1st,"Rothschild, Mrs Martin (Elizabeth L. Barrett)",54,Cherbourg,"New York, NY",,,6,female,N,MIAMI BEACH,FLORIDA,Y
+217,218,1st,"Rowe, Mr Alfred G.",,Southampton,London,,,-109,male,N,ISTANBUL,TURKEY,N
+218,219,1st,"Ryerson, Mr Arthur Larned",61,Cherbourg,"Haverford, PA / Cooperstown, NY",,17608 L262 7s 6d,,male,N,BEIJING,CHINA,N
+219,220,1st,"Ryerson, Mrs Arthur Larned (Emily Maria Borie)",48,Cherbourg,"Haverford, PA / Cooperstown, NY",,17608 L262 7s 6d,4,female,N,MIAMI BEACH,FLORIDA,Y
+220,221,1st,"Ryerson, Miss Emily Borie",18,Cherbourg,"Haverford, PA / Cooperstown, NY",,17608 L262 7s 6d,4,female,Y,SYDNEY,AUSTRALIA,Y
+221,222,1st,"Ryerson, Master John Borie",13,Cherbourg,"Haverford, PA / Cooperstown, NY",,17608 L262 7s 6d,4,male,Y,,,Y
+222,223,1st,"Ryerson, Miss Susan (Suzette) Parker",21,Cherbourg,"Haverford, PA / Cooperstown, NY",,17608 L262 7s 6d,4,female,Y,CAPE TOWN,SOUTH AFRICA,Y
+223,224,1st,"Saalfeld, Mr Adolphe",,Southampton,"Manchester, England",,,3,male,Y,TEL AVIV,ISRAEL,Y
+224,225,1st,"Salomon, Mr Abraham L.",,Southampton,"New York, NY",,,1,male,Y,SYDNEY,AUSTRALIA,Y
+225,226,1st,"Schabert, Mrs Paul (Emma Mock)",,Cherbourg,"New York, NY",,,11,female,Y,HONG KONG,CHINA,Y
+226,227,1st,"Seward, Mr Frederic Kimber",34,Southampton,"New York, NY",,,7,male,N,TEL AVIV,ISRAEL,Y
+227,228,1st,"Shutes, Miss Elizabeth W.",40,Southampton,"New York, NY / Greenwich CT",C-125,17582 L153 9s 3d,3,female,N,,,Y
+228,229,1st,"Silverthorne, Mr Spencer Victor",36,Southampton,"St Louis, MO",,,5,male,Y,MIAMI BEACH,FLORIDA,Y
+229,230,1st,"Silvey, Mr William Baird",50,,"Duluth, MN",,,,male,Y,HONG KONG,CHINA,N
+230,231,1st,"Silvey, Mrs William Baird (Alice Munger)",39,,"Duluth, MN",,,,female,Y,BARCELONA,SPAIN,Y
+231,232,1st,"Simonius-Blumer, Col Alfons",56,,"Basel, Switzerland",,,3,male,N,LONDON,UNITED KINGDOM,Y
+232,233,1st,"Sloper, Mr William Thompson",28,Southampton,"New Britain, CT",,,7,male,N,,,Y
+233,234,1st,"Smart, Mr John Montgomery",56,Southampton,"New York, NY",,,,male,N,HONOLULU,HAWAII,N
+234,235,1st,"Smith, Mr James Clinch",56,Cherbourg,"St James, Long Island, NY",,,,male,Y,KUALA LUMPUR,MALAYSIA,N
+235,236,1st,"Smith, Mr Lucien Philip",24,Southampton,"Huntington, WV",,,,male,N,EDINBURGH,SCOTLAND,N
+236,237,1st,"Smith, Mrs Lucien Philip (Mary Eloise Hughes",18,Southampton,"Huntington, WV",,,6,female,Y,VANCOUVER,BRITISH COLUMBIA,Y
+237,238,1st,"Smith, Mr Richard William",,Southampton,"Streatham, Surrey",,,,male,N,ISTANBUL,TURKEY,N
+238,239,1st,"Snyder, Mr John Pillsbury",24,Southampton,"Minneapolis, MN",,,7,male,Y,,,Y
+239,240,1st,"Snyder, Mrs John Pillsbury (Nelle Stevenson)",23,Southampton,"Minneapolis, MN",,,7,female,Y,SYDNEY,AUSTRALIA,Y
+240,241,1st,"Spedden, Mr Frederick Oakley",45,Cherbourg,"Tuxedo Park, NY",,,3,male,Y,CAPE TOWN,SOUTH AFRICA,Y
+241,242,1st,"Spedden, Mrs Frederick Oakley (Margaretta Corning Stone)",40,Cherbourg,"Tuxedo Park, NY",,,3,female,N,SYDNEY,AUSTRALIA,Y
+242,243,1st,"Spedden, Master Robert Douglas",6,Cherbourg,"Tuxedo Park, NY",,,3,male,N,NICE,FRANCE,Y
+243,244,1st,"Spencer, Mr William Augustus",57,Cherbourg,"Paris, France",,,,male,Y,RIO DE JANEIRO,BRAZIL,N
+244,245,1st,"Spencer, Mrs William Augustus (Marie Eugenie)",,Cherbourg,"Paris, France",,,6,female,N,LONDON,UNITED KINGDOM,Y
+245,246,1st,"Staehlin, Dr Max",32,Cherbourg,"Basel, Switzerland",,,3,male,N,MIAMI BEACH,FLORIDA,Y
+246,247,1st,"Stead, Mr William Thomas",62,Southampton,"Wimbledon Park, London / Hayling Island, Hants",C-89,,,male,N,KUALA LUMPUR,MALAYSIA,N
+247,248,1st,"Stengel, Mr Charles Emil Henry",54,Cherbourg,"Newark, NJ",,,1,male,Y,MIAMI BEACH,FLORIDA,Y
+248,249,1st,"Stengel, Mrs Charles Emil Henry (Annie May Morris)",43,Cherbourg,"Newark, NJ",,,5,female,Y,MIAMI BEACH,FLORIDA,Y
+249,250,1st,"Stephenson, Mrs Walter Bertram (Martha Eustis)",52,,"Haverford, PA",,,4,female,Y,,,Y
+250,251,1st,"Stewart, Mr Albert A.",,Cherbourg,"Gallipolis, Ohio / ? Paris / New York",,,,male,Y,RIO DE JANEIRO,BRAZIL,N
+251,252,1st,"Stone, Mrs George Nelson (Martha E.)",62,,"Cincinatti, OH",,,6,female,N,HONG KONG,CHINA,Y
+252,253,1st,"Straus, Mr Isidor",67,Southampton,"New York, NY",,17483 L221 15s 7d,-96,male,N,MIAMI BEACH,FLORIDA,N
+253,254,1st,"Straus, Mrs Isidor (Ida Blun)",63,Southampton,"New York, NY",,17483 L221 15s 7d,,female,N,SANTA MONICA,UNITED STATES,N
+254,255,1st,"Sutton, Mr Frederick",61,Southampton,"Haddenfield, NJ",,,-46,male,N,LONDON,UNITED KINGDOM,N
+255,256,1st,"Swift, Mrs Frederick Joel (Margaret Welles Barron)",46,Southampton,"Brooklyn, NY",,,8,female,N,NICE,FRANCE,Y
+256,257,1st,"Taussig, Mr Emil",52,Southampton,"New York, NY",,,,male,Y,LONDON,UNITED KINGDOM,N
+257,258,1st,"Taussig, Mrs Emil (Tillie Mandelbaum)",39,Southampton,"New York, NY",,,8,female,N,TEL AVIV,ISRAEL,Y
+258,259,1st,"Taussig, Miss Ruth",18,Southampton,"New York, NY",,,8,female,N,ISTANBUL,TURKEY,Y
+259,260,1st,"Taylor, Mr Elmer Zebley",48,Southampton,"London /  East Orange, NJ",C-126,,5,male,Y,RIO DE JANEIRO,BRAZIL,Y
+260,261,1st,"Taylor, Mrs Elmer Zebley (Juliet Cummins Wright)",,Southampton,"London /  East Orange, NJ",C-126,,5,female,Y,MIAMI BEACH,FLORIDA,Y
+261,262,1st,"Thayer, Mr John Borland",49,Cherbourg,"Haverford, PA",,,,male,N,BEIJING,CHINA,N
+262,263,1st,"Thayer, Mrs John Borland (Marian Longstreth Morris)",39,Cherbourg,"Haverford, PA",,,4,female,N,SYDNEY,AUSTRALIA,Y
+263,264,1st,"Thayer, Mr John Borland, jr.",17,Cherbourg,"Haverford, PA",,,B,male,Y,BEIJING,CHINA,Y
+264,265,1st,"Thorne, Mr George (alias of: Mr George Rosenshine)",46,Cherbourg,"New York, NY",,,,male,N,HONOLULU,HAWAII,N
+265,266,1st,"Thorne, Mrs Gertrude Maybelle",,Cherbourg,"New York, NY",,,D,female,Y,MIAMI BEACH,FLORIDA,Y
+266,267,1st,"Tucker, Mr Gilbert Milligan, jr",31,Cherbourg,"Albany, NY",,,7,male,N,HONOLULU,HAWAII,Y
+267,268,1st,"Uruchurtu, Mr Manuel E.",,Cherbourg,"Mexico City, Mexico",,,,male,N,MONTREAL,CANADA,N
+268,269,1st,"Van Derhoef, Mr Wyckoff",61,Southampton,"Brooklyn, NY",,,-245,male,Y,MONTREAL,CANADA,N
+269,270,1st,"Walker, Mr William Anderson",47,Southampton,"East Orange, NJ",,,,male,N,ISTANBUL,TURKEY,N
+270,271,1st,"Warren, Mr Frank Manley",64,Cherbourg,"Portland, OR",,,,male,N,MONTREAL,CANADA,N
+271,272,1st,"Warren, Mrs Frank Manley (Anna S. Atkinson)",60,Cherbourg,"Portland, OR",,,5,female,N,ISTANBUL,TURKEY,Y
+272,273,1st,"Weir, Col John",60,Southampton,"England Salt Lake City, Utah",,,,male,N,BARCELONA,SPAIN,N
+273,274,1st,"White, Mrs J. Stuart (Ella Holmes)",55,Cherbourg,"New York, NY / Briarcliff Manor NY",,,8,female,N,VANCOUVER,BRITISH COLUMBIA,Y
+274,275,1st,"White, Mr Percival Wayland",54,Southampton,"Brunswick, ME",,,,male,N,HONG KONG,CHINA,N
+275,276,1st,"White, Mr Richard Frasar",21,Southampton,"Brunswick, ME",,,-169,male,N,,,N
+276,277,1st,"Wick, Mr George Dennick",57,Southampton,"Youngstown, OH",,,,male,N,NEW YORK,UNITED STATES,N
+277,278,1st,"Wick, Mrs George Dennick (Martha Hitchcock)",45,Southampton,"Youngstown, OH",,,8,female,N,SYDNEY,AUSTRALIA,Y
+278,279,1st,"Wick, Miss Mary Natalie",31,Southampton,"Youngstown, OH",C-7,,8,female,Y,TEL AVIV,ISRAEL,Y
+279,280,1st,"Widener, Mr George Dunton",50,Cherbourg,"Elkins Park, PA",,,,male,N,LONDON,UNITED KINGDOM,N
+280,281,1st,"Widener, Mrs George Dunton (Eleanor Elkins)",50,Cherbourg,"Elkins Park, PA",,,4,female,Y,MIAMI BEACH,FLORIDA,Y
+281,282,1st,"Widener, Mr Harry Elkins",27,Cherbourg,"Elkins Park, PA",,,,male,N,NEW YORK,UNITED STATES,N
+282,283,1st,"Willard, Miss Constance",20,Southampton,"Duluth, MN",,,,female,N,HONOLULU,HAWAII,Y
+283,284,1st,"Williams, Mr Charles Duane",51,Cherbourg,"Geneva, Switzerland / Radnor, PA",,,,male,Y,ISTANBUL,TURKEY,N
+284,285,1st,"Williams, Mr Fletcher Lambert",,Southampton,"London, England",,,,male,N,CHICAGO,UNITED STATES,N
+285,286,1st,"Williams, Mr Richard Norris II",21,Cherbourg,"Geneva, Switzerland / Radnor, PA",,,A,male,Y,ISTANBUL,TURKEY,Y
+286,287,1st,"Woolner, Mr Hugh",,Southampton,"London, England",,,D,male,Y,HONOLULU,HAWAII,Y
+287,288,1st,"Wright, Mr George",,Southampton,"Halifax, NS",,,,male,N,BEIJING,CHINA,N
+288,289,1st,"Young, Miss Marie Grice",36,Cherbourg,"New York, NY / Washington, DC",,,8,female,N,SANTA MONICA,UNITED STATES,Y
+289,290,1st,"Barber, Ms ",,Southampton,,,,,female,N,HONOLULU,HAWAII,Y
+290,291,1st,"Bazzani, Ms Albina",,Cherbourg,,,,,female,Y,RIO DE JANEIRO,BRAZIL,Y
+291,292,1st,"Bidois, Miss Rosalie",,Cherbourg,,,17754,,female,N,VANCOUVER,BRITISH COLUMBIA,Y
+292,293,1st,"Bird, Ms Ellen",,Southampton,,C-97,17483,,female,N,HONG KONG,CHINA,Y
+293,294,1st,"Bissetti, Ms Amelia",,Cherbourg,,C-99,,,female,Y,,,Y
+294,295,1st,"Burns, Ms Elizabeth Margaret",,Cherbourg,,,,,female,Y,VANCOUVER,BRITISH COLUMBIA,Y
+295,296,1st,"Chaudanson, Ms 	Victorine",,Cherbourg,,,17608,,female,N,HONG KONG,CHINA,Y
+296,297,1st,"Cleaver, Ms Alice",,Southampton,,C22,,11,female,N,TEL AVIV,ISRAEL,Y
+297,298,1st,"Daniels, Ms Sarah",,Southampton,,C-22,,8,female,Y,,,Y
+298,299,1st,"Endres, Miss Caroline Louise",,Cherbourg,"New York, NY",C-45,17754 L224 10s 6d,4,female,N,SANTA MONICA,UNITED STATES,Y
+299,300,1st,"Farthing, Mr John",,Southampton,,C-55 (?C-95),17483,,male,N,ISTANBUL,TURKEY,N
+300,301,1st,"Fleming, Ms Margaret",,Cherbourg,,,,4,female,N,MIAMI BEACH,FLORIDA,N
+301,302,1st,"Francatelli, Ms Laura Mabel",,Cherbourg,,,17485,,female,N,HONOLULU,HAWAII,Y
+302,303,1st,"Fry, Mr Richard",,Southampton,,B-102,112058,,male,N,HONG KONG,CHINA,N
+303,304,1st,"Geiger, Miss Emily ",,Cherbourg,,,,,female,N,HONOLULU,HAWAII,Y
+304,305,1st,"Giglio, Mr Victor",,Cherbourg,,B-86,17593,,male,N,CHICAGO,UNITED STATES,N
+305,306,1st,"Harrington, Mr Charles",,Southampton,,,,,male,N,MONTREAL,CANADA,N
+306,307,1st,"Harrison, Mr William 	Henry",40,Southampton,,,112059,-110,male,N,MONTREAL,CANADA,N
+307,308,1st,"Hassah, Mr Hamad",,Cherbourg,,,,,male,N,BEIJING,CHINA,N
+308,309,1st,"Icabad (Icabod), Ms",,,,,,,female,N,,,Y
+309,310,1st,"Keeping, Mr Edwin",32,Cherbourg,,,,-45,male,N,VANCOUVER,BRITISH COLUMBIA,N
+310,311,1st,"Kenchen, Ms Amelia",,Southampton,,,,2,female,N,RIO DE JANEIRO,BRAZIL,Y
+311,312,1st,"LeRoy, Miss Berthe",,Cherbourg,,,,2,female,N,TEL AVIV,ISRAEL,Y
+312,313,1st,"Lesneur, Mr Gustave",,Cherbourg,,B-?,,,male,N,EDINBURGH,SCOTLAND,N
+313,314,1st,"Maloney, Ms",,Southampton,,,,8,female,Y,VANCOUVER,BRITISH COLUMBIA,Y
+314,315,1st,"Oliva, Mlle",,Cherbourg,,,,,female,Y,MONTREAL,CANADA,N
+315,316,1st,"Pericault, Ms",,Southampton,,,,,female,Y,LONDON,UNITED KINGDOM,Y
+316,317,1st,"Ringhini, Mr Sante",33,Cherbourg,,,,-232,male,Y,ISTANBUL,TURKEY,N
+317,318,1st,"Robbins, Mr Victor",,Cherbourg,,C-62,17754,,male,N,EDINBURGH,SCOTLAND,N
+318,319,1st,"Segesser, Mlle. Emma",,Cherbourg,,,,,female,N,NICE,FRANCE,Y
+319,320,1st,"Seredeca, Ms",,Southampton,,,,,female,N,SANTA MONICA,UNITED STATES,N
+320,321,1st,"Ward, Ms Anna",,Cherbourg,,,,,female,Y,HONG KONG,CHINA,N
+321,322,1st,"Wilson, Ms Helen",,Cherbourg,,,,,female,Y,,,Y
+322,323,2nd,"Abelson, Mr Samuel",30,Cherbourg,"Russia New York, NY",,,,male,Y,EDINBURGH,SCOTLAND,N
+323,324,2nd,"Abelson, Mrs Samuel (Anna)",28,Cherbourg,"Russia New York, NY",,,12,female,N,MIAMI BEACH,FLORIDA,Y
+324,325,2nd,"Andrew, Mr Edgar Samuel",18,Southampton,"Buenos Aires, Argentina / New Jersey, NJ",,,,male,N,ISTANBUL,TURKEY,N
+325,326,2nd,"Andrew, Mr Frank",,Southampton,"Cornwall, England Houghton, MI",,,,male,N,ISTANBUL,TURKEY,N
+326,327,2nd,"Angle, Mr William A.",34,Southampton,"Warwick, England",,,,male,Y,MONTREAL,CANADA,N
+327,328,2nd,"Angle, Mrs William A. (Florence)",32,Southampton,"Warwick, England",,,,female,Y,,,Y
+328,329,2nd,"Ashby, Mr John",57,Southampton,"West Hoboken, NJ",,,,male,N,,,N
+329,330,2nd,"Bailey, Mr Percy Andrew",18,Southampton,"Penzance, Cornwall / Akron, OH",,,,male,N,LONDON,UNITED KINGDOM,N
+330,331,2nd,"Baimbrigge, Mr Charles R.",23,Southampton,Guernsey,,,,male,Y,EDINBURGH,SCOTLAND,N
+331,332,2nd,"Balls, Mrs Ada E. Hall",36,Southampton,"Bristol, Avon / Jacksonville, FL",,,,female,N,MIAMI BEACH,FLORIDA,Y
+332,333,2nd,"Banfield, Mr Frederick J.",28,Southampton,"Plymouth, Dorset / Houghton, MI",,,,male,Y,LONDON,UNITED KINGDOM,N
+333,334,2nd,"Bateman, Rev Robert James",51,Southampton,"Jacksonville, FL",,,-174,male,N,EDINBURGH,SCOTLAND,N
+334,335,2nd,"Beane, Mr Edward",32,Southampton,"Norwich / New York, NY",,,,male,N,CHICAGO,UNITED STATES,Y
+335,336,2nd,"Beane, Mrs Edward (Ethel Clarke)",19,Southampton,"Norwich / New York, NY",,,,female,Y,VANCOUVER,BRITISH COLUMBIA,Y
+336,337,2nd,"Beauchamp, Mr Henry James",28,Southampton,England,,,,male,Y,HONOLULU,HAWAII,N
+337,338,2nd,"Becker, Mrs Allen Oliver (Nellie E. Baumgardner)",36,Southampton,"Guntur, India / Benton Harbour, MI",,230136 L39,11,female,Y,,,Y
+338,339,2nd,"Becker, Miss Marion Louise",4,Southampton,"Guntur, India / Benton Harbour, MI",,230136 L39,11,female,N,VANCOUVER,BRITISH COLUMBIA,Y
+339,340,2nd,"Becker, Master Richard F.",1,Southampton,"Guntur, India / Benton Harbour, MI",,230136 L39,11,male,Y,NICE,FRANCE,Y
+340,341,2nd,"Becker, Miss Ruth Elizabeth",12,Southampton,"Guntur, India / Benton Harbour, MI",,230136 L39,13,female,N,BEIJING,CHINA,Y
+341,342,2nd,"Beesley, Mr Lawrence",34,Southampton,London,D-56,248698 L13,13,male,N,MIAMI BEACH,FLORIDA,Y
+342,343,2nd,"Bentham, Miss Lilian W.",19,Southampton,"Rochester, NY",,,12,female,N,EDINBURGH,SCOTLAND,Y
+343,344,2nd,"Berriman, Mr William S.",23,Southampton,"St Ives, Cornwall / Calumet, MI",,,,male,N,VANCOUVER,BRITISH COLUMBIA,N
+344,345,2nd,"Botsford, Mr William Hull",26,Southampton,"Elmira, NY / Orange, NJ",,,,male,N,TEL AVIV,ISRAEL,N
+345,346,2nd,"Bowenur, Mr Solomon",,Southampton,London,,,,male,N,MIAMI BEACH,FLORIDA,N
+346,347,2nd,"Bracken, Mr James H.",27,Southampton,"Lake Arthur, Chavez County, NM",,,,male,Y,RIO DE JANEIRO,BRAZIL,N
+347,348,2nd,"Brown, Miss Edith E.",15,Southampton,"Cape Town, South Africa / Seattle, WA",,,14,female,N,NICE,FRANCE,Y
+348,349,2nd,"Brown, Mr Thomas William Solomon",45,Southampton,"Cape Town, South Africa / Seattle, WA",,,,male,N,KUALA LUMPUR,MALAYSIA,N
+349,350,2nd,"Brown, Mrs Thomas William Solomon (Elizabeth C.)",40,Southampton,"Cape Town, South Africa / Seattle, WA",,,14,female,Y,KUALA LUMPUR,MALAYSIA,Y
+350,351,2nd,"Bryhl, Miss Dagmar",20,Southampton,"Skara, Sweden / Rockford, IL",,,12,female,Y,SYDNEY,AUSTRALIA,Y
+351,352,2nd,"Bryhl, Mr Kurt Arnold Gottfrid",25,Southampton,"Skara, Sweden / Rockford, IL",,,,male,Y,SANTA MONICA,UNITED STATES,N
+352,353,2nd,"Buss, Miss Kate",36,Southampton,"Sittingbourne, England / San Diego, CA",E-?,27849,9,female,N,NICE,FRANCE,Y
+353,354,2nd,"Butler, Mr Reginald Fenton",25,Southampton,"Southsea, Hants",,,-97,male,Y,,,N
+354,355,2nd,"Byles, Rev. Thomas Roussel D.",,Southampton,London,,,,male,N,ISTANBUL,TURKEY,N
+355,356,2nd,"Bystrom, Mrs Carolina",42,Southampton,"New York, NY",,,,female,Y,MONTREAL,CANADA,Y
+356,357,2nd,"Caldwell, Mr Albert Francis",26,Southampton,"Bangkok, Thailand / Roseville, IL",,,13,male,Y,,,Y
+357,358,2nd,"Caldwell, Mrs Albert Francis (Sylvia Mae Harbaugh)",26,Southampton,"Bangkok, Thailand / Roseville, IL",,,13,female,Y,HONG KONG,CHINA,Y
+358,359,2nd,"Caldwell, Master Alden Gates",0.8333,Southampton,"Bangkok, Thailand / Roseville, IL",,,13,male,Y,CAPE TOWN,SOUTH AFRICA,Y
+359,360,2nd,"Cameron, Miss Clear",31,Southampton,"Mamaroneck, NY",,,,female,Y,MIAMI BEACH,FLORIDA,Y
+360,361,2nd,"Campbell, Mr William",,,Belfast,,,,male,Y,CAPE TOWN,SOUTH AFRICA,N
+361,362,2nd,"Carbines, Mr William",19,Southampton,"St Ives, Cornwall / Calumet, MI",,,-18,male,Y,SANTA MONICA,UNITED STATES,N
+362,363,2nd,"Carter, Rev Ernest Courtenay",54,Southampton,London,,,,male,Y,,,N
+363,364,2nd,"Carter, Mrs Ernest Courtenay (Lillian Hughes)",44,Southampton,London,,,,female,N,CHICAGO,UNITED STATES,N
+364,365,2nd,"Chapman, Mr Charles Henry",52,Southampton,"Bronx, NY",,,-130,male,Y,CAPE TOWN,SOUTH AFRICA,N
+365,366,2nd,"Chapman, Mr John Henry",30,Southampton,"Cornwall / Spokane, WA",,,-17,male,N,,,N
+366,367,2nd,"Chapman, Mrs John Henry (Elizabeth Lawry)",30,Southampton,"Cornwall / Spokane, WA",,,,female,Y,,,N
+367,368,2nd,"Christy, Mrs Alice Frances",,Southampton,London,,,,female,Y,,,Y
+368,369,2nd,"Christy, Miss Julie",,Southampton,London,,,,female,N,MIAMI BEACH,FLORIDA,Y
+369,370,2nd,"Clarke, Mr Charles V.",29,Southampton,"England / San Francisco, CA",,,,male,N,BEIJING,CHINA,N
+370,371,2nd,"Clarke, Mrs Charles V. (Ada Maria)",,Southampton,"England / San Francisco, CA",,,14,female,Y,TEL AVIV,ISRAEL,Y
+371,372,2nd,"Coleridge, Mr Reginald Charles",29,Southampton,"Hartford, Huntingdonshire",,,,male,Y,,,N
+372,373,2nd,"Collander, Mr Erik",27,Southampton,"Helsinki, Finland Ashtabula, Ohio",,,,male,N,EDINBURGH,SCOTLAND,N
+373,374,2nd,"Collett, Mr Sidney C. Stuart",24,Southampton,"London / Fort Byron, NY",,,9,male,N,BEIJING,CHINA,Y
+374,375,2nd,"Collyer, Mr Harvey",35,Southampton,"Bishopstoke, Hants / Fayette Valley, ID",,,,male,N,EDINBURGH,SCOTLAND,N
+375,376,2nd,"Collyer, Mrs Harvey (Charlotte Tate)",31,Southampton,"Bishopstoke, Hants / Fayette Valley, ID",,,14,female,N,,,Y
+376,377,2nd,"Collyer, Miss Marjorie",8,Southampton,"Bishopstoke, Hants / Fayette Valley, ID",,,14,female,N,SYDNEY,AUSTRALIA,Y
+377,378,2nd,"Cook, Mrs Selena Rogers",22,Southampton,Pennsylvania,F-33,,14,female,N,LONDON,UNITED KINGDOM,N
+378,379,2nd,"Corbett, Mrs Walter H. (Irene Colvin)",30,Southampton,"Provo, UT",,,,female,N,KUALA LUMPUR,MALAYSIA,N
+379,380,2nd,"Corey, Mrs Percy C. (Mary Phyllis Elizabeth Miller)",,Southampton,"Upper Burma, India Pittsburgh, PA",,,,female,N,KUALA LUMPUR,MALAYSIA,N
+380,381,2nd,"Cotterill, Mr Harry",20,Southampton,"Penzance, Cornwall / Akron, OH",,,,male,Y,KUALA LUMPUR,MALAYSIA,N
+381,382,2nd,"Cunningham, Mr Alfred Fleming",,,Belfast,,,,male,N,,,N
+382,383,2nd,"Davies, Mr Charles Henry",21,Southampton,"Lyndhurst, England",,,,male,Y,KUALA LUMPUR,MALAYSIA,N
+383,384,2nd,"Davis, Mrs Agnes",49,Southampton,"St Ives, Cornwall / Hancock, MI",,,,female,Y,MONTREAL,CANADA,Y
+384,385,2nd,"Davis, Master John Morgan",8,Southampton,"St Ives, Cornwall / Hancock, MI",,,,male,Y,,,Y
+385,386,2nd,"Davis, Miss Mary",28,Southampton,"London / Staten Island, NY",,,13,female,N,,,Y
+386,387,2nd,"Deacon, Mr Percy",18,Southampton,,,,,male,Y,,,N
+387,388,2nd,"de Brito, Mr Jose Joaquim",,,"Portugal / Sau Paulo, Brazil",,,,male,N,NICE,FRANCE,N
+388,389,2nd,"del Carlo, Mr Sebastiano",28,Cherbourg,"Lucca, Italy / California",,,-295,male,Y,,,N
+389,390,2nd,"del Carlo, Mrs Sebastiano (Argenia Genovese)",22,Cherbourg,"Lucca, Italy / California",,,,female,N,TEL AVIV,ISRAEL,Y
+390,391,2nd,"Denbury, Mr Herbert",25,Southampton,"Guernsey / Elizabeth, NJ",,,,male,Y,KUALA LUMPUR,MALAYSIA,N
+391,392,2nd,"Dibden, Mr William",18,Southampton,"New Forest, England",,,,male,Y,EDINBURGH,SCOTLAND,N
+392,393,2nd,"Doling, Mrs Ada",32,Southampton,Southampton,,,,female,Y,RIO DE JANEIRO,BRAZIL,Y
+393,394,2nd,"Doling, Miss Elsie",18,Southampton,Southampton,,,,female,Y,SANTA MONICA,UNITED STATES,Y
+394,395,2nd,"Downton (?Douton), Mr William James",,Southampton,"Holley, NY",,,,male,N,,,N
+395,396,2nd,"Drew, Mr James Vivian",42,Southampton,"Greenport, NY",,28220 L32 10s,,male,N,ISTANBUL,TURKEY,N
+396,397,2nd,"Drew, Mrs James Vivian (Lulu Thorne Christian)",34,Southampton,"Greenport, NY",,28220 L32 10s,,female,Y,SYDNEY,AUSTRALIA,Y
+397,398,2nd,"Drew, Master Marshall Brines",8,Southampton,"Greenport, NY",,28220 L32 10s,,male,N,MIAMI BEACH,FLORIDA,Y
+398,399,2nd,"Duran y More, Miss Asuncion",,Cherbourg,"Barcelona, Spain / Havana, Cuba",,,12,female,N,CHICAGO,UNITED STATES,Y
+399,400,2nd,"Duran y More, Miss Florentina",,Cherbourg,"Barcelona, Spain / Havana, Cuba",,,12,female,N,LONDON,UNITED KINGDOM,Y
+400,401,2nd,"Eitemiller, Mr George Floyd",23,Southampton,"England / Detroit, MI",,,,male,Y,KUALA LUMPUR,MALAYSIA,N
+401,402,2nd,"Enander, Mr Ingvar",21,Southampton,"Goteborg, Sweden / Rockford, IL",,,,male,N,HONG KONG,CHINA,N
+402,403,2nd,"Fahlstrom, Mr Arne Jonas",19,Southampton,"Oslo, Norway Bayonne, NJ",,,,male,N,HONG KONG,CHINA,N
+403,404,2nd,"Faunthorpe, Mr Harry",,Southampton,"England / Philadelphia, PA",,,-286,male,Y,BEIJING,CHINA,N
+404,405,2nd,"Faunthorpe, Mrs Lizzie (see Wilkinson, E.)",,,,,,,female,N,NICE,FRANCE,Y
+405,406,2nd,"Fillbrook, Mr Charles",,Southampton,"Cornwall / Houghton, MI",,,,male,N,KUALA LUMPUR,MALAYSIA,N
+406,407,2nd,"Fox, Mr Stanley H.",38,Southampton,"Rochester, NY",,229236 L13,-236,male,N,SANTA MONICA,UNITED STATES,N
+407,408,2nd,"Frost, Mr Anthony (Archie) W.",,,Belfast,,,,male,Y,SANTA MONICA,UNITED STATES,N
+408,409,2nd,"Funk, Miss Annie C.",38,Southampton,"Janjgir, India / Pennsylvania",,,,female,N,HONG KONG,CHINA,N
+409,410,2nd,"Fynney, Mr Joseph J.",35,Southampton,"Liverpool / Montreal, PQ",,,-322,male,N,,,N
+410,411,2nd,"Gale, Mr Harry",35,Southampton,"Cornwall / Clear Creek, CO",,,,male,N,CHICAGO,UNITED STATES,N
+411,412,2nd,"Gale, Mr Shadrach",38,Southampton,"Cornwall / Clear Creek, CO",,,,male,Y,NEW YORK,UNITED STATES,N
+412,413,2nd,"Garside, Miss Ethel",24,Southampton,"Brooklyn, NY",,,,female,Y,TEL AVIV,ISRAEL,Y
+413,414,2nd,"Gaskell, Mr Alfred",16,Southampton,"Liverpool / Montreal, PQ",,,,male,Y,KUALA LUMPUR,MALAYSIA,N
+414,415,2nd,"Gavey, Mr Lawrence",26,Southampton,"Guernsey / Elizabeth, NJ",,,,male,Y,NICE,FRANCE,N
+415,416,2nd,"Gilbert, Mr William",45,Southampton,Cornwall,,,,male,Y,LONDON,UNITED KINGDOM,N
+416,417,2nd,"Giles, Mr Edgar",24,Southampton,"Cornwall / Camden, NJ",,,,male,N,,,N
+417,418,2nd,"Giles, Mr Frederick",21,Southampton,"Cornwall / Camden, NJ",,,,male,N,,,N
+418,419,2nd,"Giles, Mr Ralph",22,Southampton,"West Kensington, London",,,-297,male,N,MIAMI BEACH,FLORIDA,N
+419,420,2nd,"Gill, Mr John W.",,Southampton,"Clevedon, England",,,,male,N,BEIJING,CHINA,N
+420,421,2nd,"Gillespie, Mr William",34,Southampton,"Vancouver, BC",,,,male,N,LONDON,UNITED KINGDOM,N
+421,422,2nd,"Givard, Mr Hans Christensen",30,Southampton,,,,-305,male,Y,,,N
+422,423,2nd,"Greenberg, Mr Samuel",50,Southampton,"Bronx, NY",,,-19,male,Y,,,N
+423,424,2nd,"Hale, Mr Reginald",30,Southampton,"Auburn, NY",,,-75,male,Y,TEL AVIV,ISRAEL,N
+424,425,2nd,"Hamalainen, Mrs William (Anna)",23,Southampton,"Detroit, MI",,,,female,N,HONOLULU,HAWAII,Y
+425,426,2nd,"Hamalainen, Master Viljo",1,Southampton,"Detroit, MI",,,,male,Y,KUALA LUMPUR,MALAYSIA,Y
+426,427,2nd,"Harbeck, Mr William H.",44,Southampton,"Seattle, WA / Toledo, OH",,248749 L13,-35,male,Y,,,N
+427,428,2nd,"Harper, Rev John",28,Southampton,"Denmark Hill, Surrey / Chicago",,,,male,Y,,,N
+428,429,2nd,"Harper, Miss Nina",6,Southampton,"Denmark Hill, Surrey / Chicago",,,11,female,N,TEL AVIV,ISRAEL,Y
+429,430,2nd,"Harris, Mr George",30,Southampton,London,,,,male,N,MONTREAL,CANADA,Y
+430,431,2nd,"Harris, Mr Walter",,Southampton,"Walthamstow, England",,,,male,N,MONTREAL,CANADA,N
+431,432,2nd,"Hart, Mr Benjamin",43,Southampton,"Ilford, Essex / Winnipeg, MB",,13529 L26 5s,,male,Y,VANCOUVER,BRITISH COLUMBIA,N
+432,433,2nd,"Hart, Mrs Benjamin (Esther)",45,Southampton,"Ilford, Essex / Winnipeg, MB",,13529 L26 5s,14,female,N,MIAMI BEACH,FLORIDA,Y
+433,434,2nd,"Hart, Miss Eva Miriam",7,Southampton,"Ilford, Essex / Winnipeg, MB",,13529 L26 5s,14,female,Y,,,Y
+434,435,2nd,"Herman, Miss Alice",24,Southampton,"Somerset / Bernardsville, NJ",,,9,female,Y,,,Y
+435,436,2nd,"Herman, Miss Kate",24,Southampton,"Somerset / Bernardsville, NJ",,,9,female,N,CAPE TOWN,SOUTH AFRICA,Y
+436,437,2nd,"Herman, Mr Samuel",49,Southampton,"Somerset / Bernardsville, NJ",,,,male,N,TEL AVIV,ISRAEL,N
+437,438,2nd,"Herman, Mrs Samuel (Jane Laver)",48,Southampton,"Somerset / Bernardsville, NJ",,,9,female,N,,,Y
+438,439,2nd,"Hewlett, Mrs Mary D.",,Southampton,"India / Rapid City, SD",,,13,female,N,VANCOUVER,BRITISH COLUMBIA,Y
+439,440,2nd,"Hickman, Mr Leonard Mark",34,Southampton,"West Hampstead, London / Neepawa, MB",,,-256,male,Y,CAPE TOWN,SOUTH AFRICA,N
+440,441,2nd,"Hickman, Mr Lewis",32,Southampton,"West Hampstead, London / Neepawa, MB",,,,male,N,NEW YORK,UNITED STATES,N
+441,442,2nd,"Hickman, Mr Stanley George",21,Southampton,"West Hampstead, London / Neepawa, MB",,,,male,Y,VANCOUVER,BRITISH COLUMBIA,N
+442,443,2nd,"Hiltunen, Miss Marta",18,Southampton,"Kontiolahti, Finland / Detroit, MI",,,,female,N,,,N
+443,444,2nd,"Hocking, Mrs Elizabeth",53,Southampton,"Cornwall / Akron, OH",,,4,female,N,CAPE TOWN,SOUTH AFRICA,Y
+444,445,2nd,"Hocking, Mr George",23,Southampton,"Cornwall / Akron, OH",,,,male,Y,NICE,FRANCE,N
+445,446,2nd,"Hocking, Miss Ellen (Nellie)",21,Southampton,"Cornwall / Akron, OH",,,4,female,N,SANTA MONICA,UNITED STATES,Y
+446,447,2nd,"Hocking, Mr Samuel James",,Southampton,"Devonport, England",,,,male,N,CHICAGO,UNITED STATES,N
+447,448,2nd,"Hodges, Mr Henry Price",52,Southampton,Southampton,,,-149,male,N,,,N
+448,449,2nd,"Hold, Mr Stephen",42,Southampton,"England / Sacramento, CA",,,,male,Y,HONG KONG,CHINA,N
+449,450,2nd,"Hold, Mrs Stephen (Annie Margaret)",36,Southampton,"England / Sacramento, CA",,,,female,N,SYDNEY,AUSTRALIA,Y
+450,451,2nd,"Hood, Mr Ambrose, Jr",21,Southampton,"New Forest, England",,,,male,N,MIAMI BEACH,FLORIDA,N
+451,452,2nd,"Hosono, Mr Masafumi",41,Southampton,"Tokyo, Japan",,,13,male,N,CAPE TOWN,SOUTH AFRICA,Y
+452,453,2nd,"Howard, Mr Benjamin",,Southampton,"Swindon, England",,,,male,N,NEW YORK,UNITED STATES,N
+453,454,2nd,"Howard, Mrs Benjamin (Ellen Truelove)",,Southampton,"Swindon, England",,,,female,Y,HONG KONG,CHINA,N
+454,455,2nd,"Hunt, Mr George Henry",33,Southampton,"Philadelphia, PA",,,,male,N,SANTA MONICA,UNITED STATES,N
+455,456,2nd,"Ilett, Miss Bertha",17,Southampton,Guernsey,,,,female,N,HONOLULU,HAWAII,Y
+456,457,2nd,Jacobsohn Mr Sidney Samuel,,Southampton,London,,,,male,N,MONTREAL,CANADA,N
+457,458,2nd,"Jacobsohn, Mrs Sidney Samuel (Amy Frances Christy)",,Southampton,London,,,,female,Y,SYDNEY,AUSTRALIA,Y
+458,459,2nd,"Jarvis, Mr John Denzil",,Southampton,"North Evington, England",,,,male,Y,,,N
+459,460,2nd,"Jefferys, Mr Clifford",,Southampton,"Guernsey / Elizabeth, NJ",,,,male,Y,VANCOUVER,BRITISH COLUMBIA,N
+460,461,2nd,"Jefferys, Mr Ernest",,Southampton,"Guernsey / Elizabeth, NJ",,,,male,Y,HONG KONG,CHINA,N
+461,462,2nd,"Jenkin, Mr Stephen Curnow",,Southampton,"St Ives, Cornwall / Houghton, MI",,,,male,Y,MONTREAL,CANADA,N
+462,463,2nd,"Jerwan, Mrs Amin S. (Marie Thuillard)",23,Cherbourg,"New York, NY",,,,female,Y,,,Y
+463,464,2nd,"Kantor, Mr Sinai",34,Southampton,"Moscow / Bronx, NY",,,-283,male,N,,,N
+464,465,2nd,"Kantor, Mrs Sinai (Miriam Sternim)",,Southampton,"Moscow / Bronx, NY",,,,female,N,BARCELONA,SPAIN,Y
+465,466,2nd,"Karnes, Mrs J. Frank (Claire Bennett)",22,Southampton,"India / Pittsburgh, PA",,,,female,N,MONTREAL,CANADA,N
+466,467,2nd,"Keane, Mr Daniel",,Queenstown,,,,,male,N,LONDON,UNITED KINGDOM,N
+467,468,2nd,"Keane, Miss Nora A.",,Queenstown,"Harrisburg, PA",E-101,,10,female,Y,HONOLULU,HAWAII,Y
+468,469,2nd,"Kelly, Mrs Florence (Fannie)",45,Southampton,"London / New York, NY",,,,female,N,HONG KONG,CHINA,Y
+469,470,2nd,"Kirkland, Rev Charles Leonard",,Queenstown,"Glasgow / Bangor, ME",,,,male,N,LONDON,UNITED KINGDOM,N
+470,471,2nd,"Knight, Mr Robert",,,Belfast,,,,male,N,EDINBURGH,SCOTLAND,N
+471,472,2nd,"Kvillner, Mr Johan Henrik Johannesson",31,Southampton,"Sweden / Arlington, NJ",,,-165,male,Y,LONDON,UNITED KINGDOM,N
+472,473,2nd,"Lahtinen, Rev William",30,Southampton,"Minneapolis, MN",,,,male,N,LONDON,UNITED KINGDOM,N
+473,474,2nd,"Lahtinen, Mrs William (Anna Sylvan)",26,Southampton,"Minneapolis, MN",,,,female,Y,BARCELONA,SPAIN,N
+474,475,2nd,"Lamb, Mr John James",,Queenstown,,,,,male,Y,MONTREAL,CANADA,N
+475,476,2nd,"Lemore, Mrs Amelia",34,Southampton,"Chicago, IL",F-33,,14/D,female,N,VANCOUVER,BRITISH COLUMBIA,Y
+476,477,2nd,"LaRoche, Mr Joseph",26,Cherbourg,Paris / Haiti,,,,male,Y,CAPE TOWN,SOUTH AFRICA,N
+477,478,2nd,"LaRoche, Mrs Joseph (Juliet)",22,Cherbourg,Paris / Haiti,,,,female,Y,TEL AVIV,ISRAEL,Y
+478,479,2nd,"LaRoche, Miss Louise",1,Cherbourg,Paris / Haiti,,,,female,Y,,,Y
+479,480,2nd,"LaRoche, Miss Simonne",3,Cherbourg,Paris / Haiti,,,,female,N,CAPE TOWN,SOUTH AFRICA,Y
+480,481,2nd,"Lehmann, Miss Bertha",,Cherbourg,"Berne, Switzerland / Central City, IA",,,,female,N,CHICAGO,UNITED STATES,Y
+481,482,2nd,"Leitch, Miss Jessie",,Southampton,"London / Chicago, IL",,,11,female,Y,CAPE TOWN,SOUTH AFRICA,Y
+482,483,2nd,"Levy, Mr Rene Jacques",,Cherbourg,"Montreal, PQ",,,,male,Y,BEIJING,CHINA,N
+483,484,2nd,"Leyson, Mr Robert William Norman",25,Southampton,,,,-108,male,Y,SYDNEY,AUSTRALIA,N
+484,485,2nd,"Lingan, Mr John",,Queenstown,,,,,male,N,CHICAGO,UNITED STATES,N
+485,486,2nd,"Louch, Mr Charles Alexander",48,Southampton,"Weston-Super-Mare, Somerset",,,-121,male,Y,MIAMI BEACH,FLORIDA,N
+486,487,2nd,"Louch, Mrs Charles Alexander (Alice Adelaide)",,Southampton,"Weston-Super-Mare, Somerset",,,14,female,Y,RIO DE JANEIRO,BRAZIL,Y
+487,488,2nd,"Mack, Mrs Mary",57,Southampton,"Southampton / New York, NY",E77,,-52,female,N,NEW YORK,UNITED STATES,N
+488,489,2nd,"Malachard, Mr Noel",,Cherbourg,Paris,,,,male,Y,CHICAGO,UNITED STATES,N
+489,490,2nd,"Mallet, Mr Albert",,Cherbourg,"Paris / Montreal, PQ",,,,male,Y,BARCELONA,SPAIN,N
+490,491,2nd,"Mallet, Mrs Albert (Antoinette)",,Cherbourg,"Paris / Montreal, PQ",,,,female,N,SYDNEY,AUSTRALIA,Y
+491,492,2nd,"Mallet, Master Andre",2,Cherbourg,"Paris / Montreal, PQ",,,,male,N,HONG KONG,CHINA,Y
+492,493,2nd,"Mangiavacchi, Mr Serafino Emilio",,Cherbourg,"New York, NY",,,,male,N,KUALA LUMPUR,MALAYSIA,N
+493,494,2nd,"Mantvila, Rev Joseph",27,Southampton,"Worcester, MA",,,,male,Y,KUALA LUMPUR,MALAYSIA,N
+494,495,2nd,"Marshall, Mrs Kate Louise Phillips",19,Southampton,"Worcester, England",,,,female,Y,HONOLULU,HAWAII,Y
+495,496,2nd,"Matthews, Mr William John",30,Southampton,"St Austall, Cornwall",,,,male,N,KUALA LUMPUR,MALAYSIA,N
+496,497,2nd,"Maybery, Mr Frank H.",20,Southampton,"Weston-Super-Mare / Moose Jaw, SK",,,,male,Y,VANCOUVER,BRITISH COLUMBIA,N
+497,498,2nd,"McCrae, Mr Arthur Gordon",45,Southampton,"Sydney, Australia",,,-209,male,N,,,N
+498,499,2nd,"McCrie, Mr James Matthew",,Southampton,"Sarnia, ON",,,,male,N,,,N
+499,500,2nd,"McKane, Mr Peter D.",46,Southampton,"Rochester, NY",,,,male,N,MONTREAL,CANADA,N
+500,501,2nd,"Mellenger, Mrs Elizabeth Anne",41,Southampton,"England / Bennington, VT",,,14-Dec,female,N,MIAMI BEACH,FLORIDA,Y
+501,502,2nd,"Mellenger, Miss Madeleine Violet",13,Southampton,"England / Bennington, VT",,,14-Dec,female,N,NICE,FRANCE,Y
+502,503,2nd,"Mellor, Mr William John",19,Southampton,"Chelsea, London",,,B,male,Y,BARCELONA,SPAIN,Y
+503,504,2nd,"Meyer, Mr August",30,Southampton,"Harrow-on-the-Hill, Middlesex",,,,male,N,SYDNEY,AUSTRALIA,N
+504,505,2nd,"Milling, Mr Jacob Christian",48,Southampton,"Copenhagen, Denmark",,,-271,male,N,HONG KONG,CHINA,N
+505,506,2nd,"Mitchell, Mr Henry Michael",71,Southampton,"Guernsey / Montclair, NJ and/or Toledo, Ohio",,,,male,N,EDINBURGH,SCOTLAND,N
+506,507,2nd,"Moraweck, Dr Ernest",54,Southampton,"Frankfort, KY",,,,male,N,KUALA LUMPUR,MALAYSIA,N
+507,508,2nd,"Morley, Mr William",,Southampton,"Petworth, Sussex",,,,male,N,,,N
+508,509,2nd,"Mudd, Mr Thomas C.",,Southampton,"Halesworth, England",,,,male,N,HONG KONG,CHINA,N
+509,510,2nd,"Myles, Mr Thomas Francis",64,Queenstown,"Cambridge, MA",,,,male,N,RIO DE JANEIRO,BRAZIL,N
+510,511,2nd,"Nasser (Nasrallah), Mr Nicholas",32,Cherbourg,"New York, NY",,,-43,male,Y,VANCOUVER,BRITISH COLUMBIA,N
+511,512,2nd,"Nasser (Nasrallah), Mrs Nicholas",18,Cherbourg,"New York, NY",,,,female,Y,SANTA MONICA,UNITED STATES,Y
+512,513,2nd,"Navratil, Master Edmond Roger",2,Southampton,"Nice, France",,230080 L26,D,male,Y,SYDNEY,AUSTRALIA,Y
+513,514,2nd,"Navratil, Mr Michel",32,Southampton,"Nice, France",,230080 L26,-15,male,N,,,N
+514,515,2nd,"Navratil, Master Michel M.",3,Southampton,"Nice, France",,230080 L26,D,male,Y,HONOLULU,HAWAII,Y
+515,516,2nd,"Nesson, Mr Israel",26,Southampton,"Boston, MA",,,,male,N,LONDON,UNITED KINGDOM,N
+516,517,2nd,"Nicholls, Mr Joseph Charles",19,Southampton,"Cornwall / Hancock, MI",,,-101,male,N,BEIJING,CHINA,N
+517,518,2nd,"Norman, Mr Robert Douglas",,Southampton,Glasgow,,,-287,male,N,ISTANBUL,TURKEY,N
+518,519,2nd,"Nourney, Mr Alfred (aka Baron von Drachstedt)",20,Cherbourg,"Cologne, Germany",D-38,,7,male,Y,SYDNEY,AUSTRALIA,Y
+519,520,2nd,"Nye, Mrs Elizabeth Ramell",29,Southampton,"Folkstone, Kent / New York, NY",F-33,,11,female,N,,,Y
+520,521,2nd,"Otter, Mr Richard",39,Southampton,"Middleburg Heights, OH",,,,male,N,SYDNEY,AUSTRALIA,N
+521,522,2nd,"Oxenham, Mr Percy Thomas",22,Southampton,"Pondersend, England / New Durham, NJ",,,,male,Y,RIO DE JANEIRO,BRAZIL,Y
+522,523,2nd,"Padro y Manent, Mr Julian",,Cherbourg,"Spain / Havana, Cuba",,,,male,N,,,Y
+523,524,2nd,"Pain, Dr Alfred",24,Southampton,"Hamilton, ON",,,,male,N,KUALA LUMPUR,MALAYSIA,N
+524,525,2nd,"Pallas y Castello, Mr Emilio",,Cherbourg,"Spain / Havana, Cuba",,,,male,N,RIO DE JANEIRO,BRAZIL,Y
+525,526,2nd,"Parker, Mr Clifford R.",28,Southampton,"St Andrews, Guernsey",,,,male,N,MONTREAL,CANADA,N
+526,527,2nd,"Parkes, Mr Francis (Frank)",,,Belfast,,,,male,Y,EDINBURGH,SCOTLAND,N
+527,528,2nd,"Parrish, Mrs Lutie Davis",50,Southampton,"Woodford County, KY",,,12,female,Y,RIO DE JANEIRO,BRAZIL,Y
+528,529,2nd,"Pengelly, Mr Frederick",20,Southampton,"Gunnislake, England / Butte, MT",,,,male,Y,HONOLULU,HAWAII,N
+529,530,2nd,"Peruschitz, Rev. Joseph M.",40,Southampton,,,,,male,N,HONOLULU,HAWAII,N
+530,531,2nd,"Phillips, Miss Alice",42,Southampton,"Ilfracombe, Devon",,,12,female,N,RIO DE JANEIRO,BRAZIL,Y
+531,532,2nd,"Phillips, Mr Robert",21,Southampton,"Ilfracombe, Devon",,,,male,Y,HONG KONG,CHINA,N
+532,533,2nd,"Pinsky, Miss Rosa",32,Southampton,Russia,,,,female,Y,VANCOUVER,BRITISH COLUMBIA,Y
+533,534,2nd,"Ponesell, Mr Martin",34,Southampton,"Denmark / New York, NY",,250647,,male,Y,,,N
+534,535,2nd,"Portaluppi, Mr Emilio",,Cherbourg,"Milford, NH",,,,male,N,RIO DE JANEIRO,BRAZIL,Y
+535,536,2nd,"Pulbaum, Mr Frank",,Cherbourg,Paris,,,,male,N,BEIJING,CHINA,N
+536,537,2nd,"Quick, Mrs Frederick C. (Jane Richards)",33,Southampton,"Plymouth, Devon / Detroit, MI",,,11,female,Y,MIAMI BEACH,FLORIDA,Y
+537,538,2nd,"Quick, Miss Phyllis May",2,Southampton,"Plymouth, Devon / Detroit, MI",,,11,female,Y,VANCOUVER,BRITISH COLUMBIA,Y
+538,539,2nd,"Quick, Miss Winifred Vera",8,Southampton,"Plymouth, Devon / Detroit, MI",,,11,female,N,CAPE TOWN,SOUTH AFRICA,Y
+539,540,2nd,"Reeves, Mr David",36,Southampton,"Brighton, Sussex",,,,male,N,,,N
+540,541,2nd,"Renouf, Mr Peter Henry",34,Southampton,"Elizabeth, NJ",,,,male,N,HONG KONG,CHINA,N
+541,542,2nd,"Renouf, Mrs Peter Henry (Lillian Jefferys)",30,Southampton,"Elizabeth, NJ",,,,female,N,RIO DE JANEIRO,BRAZIL,Y
+542,543,2nd,"Reynaldo, Mrs Encarnacion",28,Southampton,Spain,,,,female,N,HONOLULU,HAWAII,Y
+543,544,2nd,"Richard, Mr Emil",23,Cherbourg,"Paris / Montreal, PQ",,,,male,N,MIAMI BEACH,FLORIDA,N
+544,545,2nd,"Richards, Master George Sidney",0.8333,Southampton,"Cornwall / Akron, OH",,,4,male,Y,,,Y
+545,546,2nd,"Richards, Mrs Sidney (Emily Hocking)",25,Southampton,"Cornwall / Akron, OH",,,4,female,N,KUALA LUMPUR,MALAYSIA,Y
+546,547,2nd,"Richards, Master William Rowe",3,Southampton,"Cornwall / Akron, OH",,,4,male,N,SANTA MONICA,UNITED STATES,Y
+547,548,2nd,"Ridsdale, Miss Lucy",50,Southampton,"London, England / Marietta, Ohio and Milwaukee, WI",,,,female,N,ISTANBUL,TURKEY,Y
+548,549,2nd,"Rogers, Mr Harry",,Southampton,,,,,male,N,RIO DE JANEIRO,BRAZIL,N
+549,550,2nd,"Rugg, Miss Emily",21,Southampton,"Guernsey / Wilmington, DE",,,12,female,N,HONOLULU,HAWAII,Y
+550,551,2nd,"Sedgwick, Mr Charles Frederick Waddington",,Southampton,Liverpool,,,,male,N,CHICAGO,UNITED STATES,N
+551,552,2nd,"Sharp, Mr Percival",,Southampton,"Hornsey, England",,,,male,N,,,N
+552,553,2nd,"Shelley, Mrs William (Imanita)",25,Southampton,"Deer Lodge, MT",,,12,female,Y,BARCELONA,SPAIN,Y
+553,554,2nd,"Silven, Miss Lyyli",18,Southampton,"Finland / Minneapolis, MN",,,,female,Y,MONTREAL,CANADA,Y
+554,555,2nd,"Sincock, Miss Maude",20,Southampton,"Cornwall / Hancock, MI",,,11,female,N,RIO DE JANEIRO,BRAZIL,Y
+555,556,2nd,"Siukonnen, Miss Anna",30,Southampton,"Finland / Washington, DC",,,,female,N,NICE,FRANCE,Y
+556,557,2nd,"Sjostedt, Mr Ernst Adolf",59,Southampton,"Sault St Marie, ON",,,,male,N,,,N
+557,558,2nd,"Slayter, Miss Hilda Mary",30,Queenstown,"Halifax, NS",,,13,female,N,RIO DE JANEIRO,BRAZIL,Y
+558,559,2nd,"Slemen, Mr Richard James",35,Southampton,Cornwall,,,,male,N,,,N
+559,560,2nd,"Smith (Schmidt), Mr Augustus",22,Southampton,"Newark, NJ",,,,male,Y,ISTANBUL,TURKEY,N
+560,561,2nd,"Smith, Miss Marion",,Southampton,,,,,female,N,TEL AVIV,ISRAEL,Y
+561,562,2nd,"Sobey, Mr Hayden",25,Southampton,"Cornwall / Houghton, MI",,,,male,N,,,N
+562,563,2nd,"Stanton, Mr Samuel Ward",41,Cherbourg,"New York, NY",,,,male,N,NEW YORK,UNITED STATES,N
+563,564,2nd,"Stokes, Mr Philip Joseph",25,Southampton,"Catford, Kent / Detroit, MI",,,-81,male,Y,CHICAGO,UNITED STATES,N
+564,565,2nd,"Sweet, Mr George",14,Southampton,"Somerset / Bernardsville, NJ",,,,male,Y,RIO DE JANEIRO,BRAZIL,N
+565,566,2nd,"Toomey, Miss Ellen",50,Southampton,"Indianapolis, IN",,,9,female,Y,BEIJING,CHINA,Y
+566,567,2nd,"Troupiansky, Mr Moses Aaron",22,Southampton,,,,,male,Y,MONTREAL,CANADA,N
+567,568,2nd,"Trout, Mrs William H. (Jessie L.)",,Southampton,"Columbus, OH",,,9,female,N,SYDNEY,AUSTRALIA,Y
+568,569,2nd,"Troutt, Miss Edwina Celia",27,Southampton,"Bath, England / Massachusetts",E-101,34218 L10 10s,16,female,Y,RIO DE JANEIRO,BRAZIL,Y
+569,570,2nd,"Turpin, Mr William John",29,Southampton,"Plymouth, England",,,,male,N,KUALA LUMPUR,MALAYSIA,N
+570,571,2nd,"Turpin, Mrs William John (Dorothy Anne Wonnacott)",27,Southampton,"Plymouth, England",,,,female,N,ISTANBUL,TURKEY,N
+571,572,2nd,"Veale, Mr James",30,Southampton,"Barre, Co Washington, VT",,,,male,Y,,,N
+572,573,2nd,"Waelens, Mr Achille",22,Southampton,"Antwerp, Belgium / Stanton, OH",,,-140,male,N,MONTREAL,CANADA,N
+573,574,2nd,"Walcroft, Miss Nellie",35,Southampton,"Mamaroneck, NY",,,,female,N,HONOLULU,HAWAII,Y
+574,575,2nd,"Ware, Mr John James",30,Southampton,"Bristol, England / New Britain, CT",,,,male,N,,,N
+575,576,2nd,"Ware, Mrs John James (Florence Louise Long)",28,Southampton,"Bristol, England / New Britain, CT",,,12,female,N,RIO DE JANEIRO,BRAZIL,Y
+576,577,2nd,"Ware, Mr William J.",23,Southampton,,,,,male,N,HONG KONG,CHINA,N
+577,578,2nd,"Watson, Mr Ennis Hastings",,Southampton,Belfast,,,,male,Y,CHICAGO,UNITED STATES,N
+578,579,2nd,"Watt, Miss Bertha",12,Southampton,"Aberdeen / Portland, OR",,,9,female,N,,,Y
+579,580,2nd,"Watt, Mrs James (Bessie Inglis Milne)",40,Southampton,"Aberdeen / Portland, OR",,,9,female,N,CHICAGO,UNITED STATES,Y
+580,581,2nd,"Webber, Miss Susan",36,Southampton,"England / Hartford, CT",E-101,,,female,N,SYDNEY,AUSTRALIA,Y
+581,582,2nd,"Weisz, Mr Leopold",28,Southampton,"Bromsgrove, England / Montreal, PQ",,,-293,male,N,HONOLULU,HAWAII,N
+582,583,2nd,"Weisz, Mrs Leopold (Mathilde)",32,Southampton,"Bromsgrove, England / Montreal, PQ",,,,female,Y,CHICAGO,UNITED STATES,Y
+583,584,2nd,"Wells, Mrs Arthur H. (Addie Trevaskis)",29,Southampton,"Cornwall / Akron, OH",,,,female,N,SYDNEY,AUSTRALIA,Y
+584,585,2nd,"Wells, Miss Joan",4,Southampton,"Cornwall / Akron, OH",,,,female,Y,TEL AVIV,ISRAEL,Y
+585,586,2nd,"Wells, Master Ralph Lester",2,Southampton,"Cornwall / Akron, OH",,,,male,Y,CHICAGO,UNITED STATES,Y
+586,587,2nd,"West, Miss Barbara J.",,Southampton,"Bournmouth, England",,,,female,N,,,Y
+587,588,2nd,"West, Miss Constance Mirium",,Southampton,"Bournmouth, England",,,,female,Y,SYDNEY,AUSTRALIA,Y
+588,589,2nd,"West, Mr Edwy Arthur",36,Southampton,"Bournmouth, England",,,,male,N,MONTREAL,CANADA,N
+589,590,2nd,"West, Mrs Edwy Arthur (Ada Mary)",33,Southampton,"Bournmouth, England",,,,female,Y,MIAMI BEACH,FLORIDA,Y
+590,591,2nd,"Wheadon, Mr Edward",,Southampton,"Guernsey, England / Edgewood, RI",,,,male,Y,HONG KONG,CHINA,N
+591,592,2nd,"Wheeler, Mr Edwin",,Southampton,,,,,male,N,HONG KONG,CHINA,N
+592,593,2nd,"Wheeler, Mr Frederick",,,,,,,male,N,EDINBURGH,SCOTLAND,N
+593,594,2nd,"Wilhelms, Mr Charles",32,Southampton,"London, England",,,9,male,N,SANTA MONICA,UNITED STATES,Y
+594,595,2nd,"Wilkinson, Mrs Elizabeth Anne",,Southampton,"Manchester, England",,,,female,Y,RIO DE JANEIRO,BRAZIL,Y
+595,596,2nd,"Williams, Mr Charles Eugene",,Southampton,"Harrow, England",,,14,male,Y,CAPE TOWN,SOUTH AFRICA,Y
+596,597,2nd,"Wright, Miss Marion",26,Southampton,"Yoevil, England / Cottage Grove, OR",,,9,female,N,TEL AVIV,ISRAEL,Y
+597,598,2nd,"Yrois, Miss Henriette",,Southampton,Paris,,,,female,N,MIAMI BEACH,FLORIDA,N
+598,599,2nd,"Aldworth, Mr Charles Augustus",30,Southampton,"Bryn Mawr, PA, USA",,248744 L13,,male,N,,,N
+599,600,2nd,"Brown, Miss Mildred",24,Southampton,"London / Montreal, PQ",F-33,,11,female,N,VANCOUVER,BRITISH COLUMBIA,Y
+600,601,2nd,"Pernot, Mr Rene",,Cherbourg,,2131,L15 1s,,male,N,KUALA LUMPUR,MALAYSIA,N
+601,602,2nd,"Swane, Mr George",18,Southampton,,F-?,,-294,male,N,MONTREAL,CANADA,N
+602,603,3rd,"Abbing, Mr Anthony",42,Southampton,,,,,male,N,NEW YORK,UNITED STATES,N
+603,604,3rd,"Abbott, Master Eugene Joseph",13,Southampton,"East Providence, RI",,,,male,N,SANTA MONICA,UNITED STATES,N
+604,605,3rd,"Abbott, Mr Rossmore Edward",16,Southampton,"East Providence, RI",,,-190,male,N,BEIJING,CHINA,N
+605,606,3rd,"Abbott, Mrs Stanton (Rosa)",35,Southampton,"East Providence, RI",,,A,female,N,MIAMI BEACH,FLORIDA,Y
+606,607,3rd,"Abelseth, Miss Anna Karen",16,Southampton,"Norway Los Angeles, CA",,,16,female,Y,LONDON,UNITED KINGDOM,Y
+607,608,3rd,"Abelseth, Mr Olaus",25,Southampton,"Perkins County, SD",,,A,male,Y,HONG KONG,CHINA,Y
+608,609,3rd,"Abraham, Mrs Joseph (Sophie Easu)",18,Cherbourg,"Greensburg, PA",,,,female,N,TEL AVIV,ISRAEL,Y
+609,610,3rd,"Abrahamsson, Mr August",20,Southampton,"Taalintehdas, Finland Hoboken, NJ",,,15,male,N,,,Y
+610,611,3rd,"Adahl, Mr Mauritz Nils Martin",30,Southampton,"Asarum, Sweden Brooklyn, NY",,7076,-72,male,Y,NEW YORK,UNITED STATES,N
+611,612,3rd,"Adams, Mr John",26,Southampton,"Bournemouth, England",,,-103,male,N,SANTA MONICA,UNITED STATES,N
+612,613,3rd,"Ahlin, Mrs Johanna Persdotter",40,Southampton,"Sweden Akeley, MN",,,,female,Y,SANTA MONICA,UNITED STATES,N
+613,614,3rd,"Ahmed, Mr Ali",24,Southampton,,,,,male,Y,VANCOUVER,BRITISH COLUMBIA,N
+614,615,3rd,"Aijo-Nirva, Mr Isak",41,Southampton,"Finland Sudbury, ON",,,,male,N,HONG KONG,CHINA,N
+615,616,3rd,"Aks, Mrs Sam (Leah Rosen)",18,Southampton,"London, England Norfolk, VA",,392091,13,female,N,,,Y
+616,617,3rd,"Aks, Master Philip",0.8333,Southampton,"London, England Norfolk, VA",,392091,11,male,N,HONG KONG,CHINA,Y
+617,618,3rd,"Alexander, Mr William",23,Southampton,"England Albion, NY",,,,male,Y,,,N
+618,619,3rd,"Alhomaki, Mr Ilmari Rudolf",20,Southampton,"Salo, Finland Astoria, OR",,,,male,Y,CAPE TOWN,SOUTH AFRICA,N
+619,620,3rd,"Ali, Mr William",25,Southampton,Argentina,,,-79,male,N,SYDNEY,AUSTRALIA,N
+620,621,3rd,"Allen, Mr William Henry",35,Southampton,"Lower Clapton, Middlesex or Erdington, Birmingham",,,,male,Y,MONTREAL,CANADA,N
+621,622,3rd,"Allum, Mr Owen George",17,Southampton,"Windsor, England New York, NY",,,-259,male,N,LONDON,UNITED KINGDOM,N
+622,623,3rd,"Andersen, Mr Albert Karvin",32,Southampton,"Bergen, Norway",,,-260,male,Y,LONDON,UNITED KINGDOM,N
+623,624,3rd,"Andersen, Mr Thor Olsvigen",20,Southampton,"Oslo, Norway Cameron, WI",,,-89,male,Y,NEW YORK,UNITED STATES,N
+624,625,3rd,"Andersson, Mr Anders Johan",39,Southampton,"Sweden Winnipeg, MN",,,,male,N,HONG KONG,CHINA,N
+625,626,3rd,"Andersson, Mrs Anders Johan (Alfrida K. Brogren)",39,Southampton,"Sweden Winnipeg, MN",,,,female,Y,EDINBURGH,SCOTLAND,N
+626,627,3rd,"Andersson, Miss Ebba Iris",6,Southampton,"Sweden Winnipeg, MN",,,,female,N,ISTANBUL,TURKEY,N
+627,628,3rd,"Andersson, Miss Ellis Anna Maria",2,Southampton,"Sweden Winnipeg, MN",,,,female,N,VANCOUVER,BRITISH COLUMBIA,N
+628,629,3rd,"Andersson, Miss Erna",17,Southampton,"Ruotsinphyhtaa, Finland New York, NY",,,,female,N,MONTREAL,CANADA,Y
+629,630,3rd,"Andersson, Miss Ida Augusta Margareta",38,Southampton,"Vadsbro, Sweden Ministee, MI",,,,female,N,CHICAGO,UNITED STATES,N
+630,631,3rd,"Andersson, Miss Ingeborg Constancia",9,Southampton,"Sweden Winnipeg, MN",,,,female,Y,BEIJING,CHINA,N
+631,632,3rd,"Andersson, Mr Johan Samuel",26,Southampton,"Hartford, CT",,,,male,N,LONDON,UNITED KINGDOM,N
+632,633,3rd,"Andersson, Miss Sigrid Elizabeth",11,Southampton,"Sweden Winnipeg, MN",,,,female,N,TEL AVIV,ISRAEL,N
+633,634,3rd,"Andersson, Master Sigvard Harald Elias",4,Southampton,"Sweden Winnipeg, MN",,,,male,Y,CHICAGO,UNITED STATES,N
+634,635,3rd,"Andreasson, Mr Paul Edvin",20,Southampton,"Sweden Chicago, IL",,,,male,Y,,,N
+635,636,3rd,"Angheloff, Mr Minko",26,Southampton,"Bulgaria Chicago, IL",,,,male,Y,CAPE TOWN,SOUTH AFRICA,N
+636,637,3rd,"Arnold, Mr Josef",25,Southampton,"Altdorf, Switzerland",,,,male,N,CHICAGO,UNITED STATES,N
+637,638,3rd,"Arnold, Mrs Josef (Josephine Frank)",18,Southampton,"Altdorf, Switzerland",,,,female,N,SYDNEY,AUSTRALIA,N
+638,639,3rd,"Aronsson, Mr Ernst Axel Algot",24,Southampton,"Sweden Joliet, IL",,,,male,Y,HONOLULU,HAWAII,N
+639,640,3rd,"Asim, Mr Adola",35,Southampton,,,,,male,N,EDINBURGH,SCOTLAND,N
+640,641,3rd,"Asplund, Mr Carl Oscar Vilhelm Gustafsson",40,Southampton,"Sweden  Worcester, MA",,,-142,male,N,CAPE TOWN,SOUTH AFRICA,N
+641,642,3rd,"Asplund, Mrs Carl Oscar (Selma Augusta Johansson)",38,Southampton,"Sweden  Worcester, MA",,,4,female,N,TEL AVIV,ISRAEL,Y
+642,643,3rd,"Asplund, Master Carl Edgar",5,Southampton,"Sweden  Worcester, MA",,,,male,N,KUALA LUMPUR,MALAYSIA,N
+643,644,3rd,"Asplund, Master Clarence Gustaf Hugo",9,Southampton,"Sweden Worcester, MA",,,,male,N,EDINBURGH,SCOTLAND,N
+644,645,3rd,"Aspland, Master Edvin Rojj Felix",3,Southampton,"Sweden Worcester, MA",,,4,male,N,ISTANBUL,TURKEY,Y
+645,646,3rd,"Asplund, Master Filip Oscar",13,Southampton,"Sweden Worcester, MA",,,,male,N,BEIJING,CHINA,N
+646,647,3rd,"Asplund, Mr John Charles",23,Southampton,"Oskarshamn, Sweden Minneapolis, MN",,,,male,Y,SYDNEY,AUSTRALIA,Y
+647,648,3rd,"Asplund, Miss Lillian Gertrud",5,Southampton,"Sweden Worcester, MA",,,4,female,Y,BEIJING,CHINA,Y
+648,649,3rd,"Assaf, Mr Gerios",,Cherbourg,"Ottawa, ON",,,,male,Y,ISTANBUL,TURKEY,N
+649,650,3rd,"Assaf, Mrs Mariana",45,Cherbourg,"Ottawa, ON",,,C,female,N,MIAMI BEACH,FLORIDA,Y
+650,651,3rd,"Assam, Mr Ali",23,Southampton,,,,,male,N,CAPE TOWN,SOUTH AFRICA,N
+651,652,3rd,"Attalah, Miss Malaka",17,Cherbourg,,,,,female,N,ISTANBUL,TURKEY,N
+652,653,3rd,"Attala (Kalil), Mr Solomon",27,Cherbourg,"Ottawa, ON",,,,male,N,EDINBURGH,SCOTLAND,N
+653,654,3rd,"Augustsson, Mr Albert",23,Southampton,"Krakoryd, Sweden Bloomington, IL",,,,male,N,,,N
+654,655,3rd,"Baccos, Mr Rafoul",20,Cherbourg,,,,,male,N,NICE,FRANCE,N
+655,656,3rd,"Backstrom, Mr Karl Alfred",32,Southampton,"Ruotsinphytaa, Finland New York, NY",,,,male,Y,BEIJING,CHINA,N
+656,657,3rd,"Backstrom, Mrs Karl Alfred (Maria Mathilda Gustafsson)",33,Southampton,"Ruotsinphytaa, Finland New York, NY",,,,female,Y,LONDON,UNITED KINGDOM,Y
+657,658,3rd,"Baclini, Miss Eugenie",3,Cherbourg,"Syria New York, NY",,,,female,N,ISTANBUL,TURKEY,Y
+658,659,3rd,"Baclini, Miss Helene",,Cherbourg,"Syria New York, NY",,,,female,Y,NICE,FRANCE,Y
+659,660,3rd,"Baclini, Miss Maria",,Cherbourg,"Syria New York, NY",,,,female,Y,RIO DE JANEIRO,BRAZIL,Y
+660,661,3rd,"Baclini, Mrs Solomon (Latifa)",,Cherbourg,"Syria New York, NY",,,,female,N,TEL AVIV,ISRAEL,Y
+661,662,3rd,"Badman, Miss Emily Louisa",18,Southampton,"London Skanteales, NY",,,,female,Y,,,Y
+662,663,3rd,"Badt, Mr Mohamed",40,Cherbourg,,,,,male,N,KUALA LUMPUR,MALAYSIA,N
+663,664,3rd,"Balkic, Mr Cerin",26,Southampton,,,,,male,N,KUALA LUMPUR,MALAYSIA,N
+664,665,3rd,"Banoura, Miss Ayout",15,Cherbourg,"Syria Youngstown, OH",,,,female,Y,TEL AVIV,ISRAEL,Y
+665,666,3rd,"Barbara, Mrs Catherine",45,Cherbourg,"Syria Ottawa, ON",,,,female,N,ISTANBUL,TURKEY,N
+666,667,3rd,"Barbara, Miss Saude",18,Cherbourg,"Syria Ottawa, ON",,,,female,N,HONG KONG,CHINA,N
+667,668,3rd,"Barry, Miss Julia",27,Queenstown,"New York, NY",,,,female,N,,,N
+668,669,3rd,Barton Mr David,22,Southampton,"England New York, NY",,,,male,Y,KUALA LUMPUR,MALAYSIA,N
+669,670,3rd,"Beavan, Mr William Thomas",19,Southampton,England,,,,male,N,SYDNEY,AUSTRALIA,N
+670,671,3rd,"Bengtsson, Mr John Viktor",26,Southampton,"Krakudden, Sweden Moune, IL",,,,male,N,HONG KONG,CHINA,N
+671,672,3rd,Berglund. Mr Karl Ivar Sven,22,Southampton,"Tranvik, Finland New York",,,,male,Y,,,N
+672,673,3rd,"Betros, Mr Tannous",20,Cherbourg,Syria,,,,male,Y,ISTANBUL,TURKEY,N
+673,674,3rd,"Bing, Mr Lee",32,Southampton,"Hong Kong New York, NY",,,,male,N,MIAMI BEACH,FLORIDA,Y
+674,675,3rd,"Birkeland, Mr Hans",21,Southampton,"Brennes, Norway New York",,,,male,Y,TEL AVIV,ISRAEL,N
+675,676,3rd,"Bjorklund, Ernst Herbert",18,Southampton,"Stockholm, Sweden New York",,,,male,Y,KUALA LUMPUR,MALAYSIA,N
+676,677,3rd,"Bostandyeff, Mr Guentcho",26,Southampton,"Bulgaria Chicago, IL",,,,male,N,KUALA LUMPUR,MALAYSIA,N
+677,678,3rd,"Boulos, Master Akar",6,Cherbourg,"Syria Kent, ON",,,,male,Y,CHICAGO,UNITED STATES,N
+678,679,3rd,"Boulos, Mr Hanna",,Cherbourg,Syria,,,,male,N,HONOLULU,HAWAII,N
+679,680,3rd,"Boulos, Mrs Joseph (Sultana)",,Cherbourg,"Syria Kent, ON",,,,female,Y,CHICAGO,UNITED STATES,N
+680,681,3rd,"Boulos, Miss Laura",9,Cherbourg,"Syria Kent, ON",,,,female,N,HONG KONG,CHINA,N
+681,682,3rd,"Bourke, Mr John",40,Queenstown,"Ireland Chicago, IL",,,,male,N,SYDNEY,AUSTRALIA,N
+682,683,3rd,"Bourke, Mrs John (Catherine)",32,Queenstown,"Ireland Chicago, IL",,,,female,Y,,,N
+683,684,3rd,"Bourke, Miss Mary",,Queenstown,"Ireland Chicago, IL",,,,female,Y,,,N
+684,685,3rd,"Bowen, Mr David",26,Southampton,"Treherbert, Cardiff, Wales",,,,male,Y,HONG KONG,CHINA,N
+685,686,3rd,"Bradley, Miss Bridget Delia",18,Queenstown,"Kingwilliamstown, Co Cork, Ireland Glens Falls, NY",,,13,female,Y,HONG KONG,CHINA,Y
+686,687,3rd,"Braf, Miss Elin Ester Maria",20,Southampton,"Medeltorp, Sweden Chicago, IL",,,,female,N,CAPE TOWN,SOUTH AFRICA,N
+687,688,3rd,"Brahim, Mr Youssef",,Cherbourg,,,,,male,N,RIO DE JANEIRO,BRAZIL,N
+688,689,3rd,"Braund, Mr Lewis Richard",29,Southampton,"Bridgerule, Devon",,,,male,N,KUALA LUMPUR,MALAYSIA,N
+689,690,3rd,"Braund, Mr Owen Harris",22,Southampton,"Bridgerule, Devon",,,,male,N,VANCOUVER,BRITISH COLUMBIA,N
+690,691,3rd,"Brobek, Mr Karl Rudolf",22,Southampton,"Sweden Worcester, MA",,,,male,N,MONTREAL,CANADA,N
+691,692,3rd,"Brocklebank, Mr William Alfred",35,Southampton,"Broomfield, Chelmsford, England",,,,male,Y,BEIJING,CHINA,N
+692,693,3rd,"Buckley, Mr Daniel",21,Queenstown,"Kingwilliamstown, Co Cork, Ireland New York, NY",,,,male,Y,VANCOUVER,BRITISH COLUMBIA,Y
+693,694,3rd,"Buckley, Miss Katherine",20,Queenstown,"Co Cork, Ireland Roxbury, MA",,,-299,female,N,NEW YORK,UNITED STATES,N
+694,695,3rd,"Burke, Mr Jeremiah",19,Queenstown,"Co Cork, Ireland Charlestown, MA",,,,male,N,MONTREAL,CANADA,N
+695,696,3rd,"Burns, Miss Mary Delia",18,Queenstown,"Co Sligo, Ireland New York, NY",,,,female,Y,,,N
+696,697,3rd,"Cacic, Mr Grego",18,Southampton,Croatia,,,,male,N,CHICAGO,UNITED STATES,N
+697,698,3rd,"Cacic, Mr Luka",38,Southampton,Croatia,,,,male,N,ISTANBUL,TURKEY,N
+698,699,3rd,"Cacic, Mr Manda",,Southampton,Croatia,,,,male,Y,HONOLULU,HAWAII,N
+699,700,3rd,"Cacic, Mr Maria",30,Southampton,Croatia,,,,male,N,,,N
+700,701,3rd,"Calic, Mr Peter",17,Southampton,,,,,male,N,HONG KONG,CHINA,N
+701,702,3rd,"Canavan, Miss Mary",21,Queenstown,,,,,female,N,ISTANBUL,TURKEY,N
+702,703,3rd,"Canavan, Mr Patrick",21,Queenstown,"Ireland Philadelphia, PA",,,,male,N,ISTANBUL,TURKEY,N
+703,704,3rd,"Cann, Mr Ernest",21,Southampton,,,,,male,Y,ISTANBUL,TURKEY,N
+704,705,3rd,"Caram (Kareem), Mr Joseph",,Cherbourg,"Ottawa, ON",,,,male,N,MONTREAL,CANADA,N
+705,706,3rd,"Caram (Kareem), Mrs Joseph (Maria Elias)",,Cherbourg,"Ottawa, ON",,,,female,N,MONTREAL,CANADA,N
+706,707,3rd,"Carlsson, Mr Carl Robert",24,Southampton,"Goteborg, Sweden Huntley, IL",,,,male,Y,EDINBURGH,SCOTLAND,N
+707,708,3rd,"Carlsson, Mr Frans Olof",33,Southampton,"New York, NY",,,,male,N,LONDON,UNITED KINGDOM,N
+708,709,3rd,"Carlsson, Mr Julius",33,Southampton,,,,,male,N,NICE,FRANCE,N
+709,710,3rd,"Carlsson, Mr August Sigfrid",28,Southampton,"Dagsas, Sweden Fower, MN",,,,male,Y,KUALA LUMPUR,MALAYSIA,N
+710,711,3rd,"Carr, Miss Helen",16,Queenstown,"Co Longford, Ireland New York, NY",,,,female,Y,KUALA LUMPUR,MALAYSIA,Y
+711,712,3rd,"Carr, Miss Jeannie",37,Queenstown,"Co Sligo, Ireland Hartford, CT",,,,female,Y,HONG KONG,CHINA,N
+712,713,3rd,"Carver, Mr Alfred John",28,Southampton,"St Denys, Southampton, Hants",,,,male,Y,MONTREAL,CANADA,N
+713,714,3rd,"Cassem, Mr Nassef Belmenly",,Cherbourg,"Syria Fredericksburg, VA",,,,male,N,SYDNEY,AUSTRALIA,Y
+714,715,3rd,"Celotti, Mr Francesco",24,Southampton,London,,,,male,N,,,N
+715,716,3rd,"Chartens, Mr David",21,Southampton,"Ireland New York, NY",,,,male,Y,ISTANBUL,TURKEY,N
+716,717,3rd,"Chebab, Mr Emir Farres",,Cherbourg,,,,,male,Y,HONG KONG,CHINA,N
+717,718,3rd,"Chip, Mr Chang",32,Southampton,"Hong Kong New York, NY",,,,male,Y,HONG KONG,CHINA,N
+718,719,3rd,"Christmann, Mr Emil",29,Southampton,,,,,male,Y,HONG KONG,CHINA,N
+719,720,3rd,"Chronopoulos, Mr Apostolos",26,Cherbourg,Greece,,,,male,N,KUALA LUMPUR,MALAYSIA,N
+720,721,3rd,"Chronopoulos, Mr Demetrios",18,Cherbourg,Greece,,,,male,Y,,,N
+721,722,3rd,"Coelho, Mr Domingos Fernandes",20,Southampton,Portugal,,,,male,N,ISTANBUL,TURKEY,N
+722,723,3rd,"Cohen, Mr Gurshon (Gus)",19,Southampton,"London Brooklyn, NY",,,,male,Y,RIO DE JANEIRO,BRAZIL,Y
+723,724,3rd,"Colbert, Mr Patrick",24,Queenstown,"Co Limerick, Ireland Sherbrooke, PQ",,,,male,N,HONG KONG,CHINA,N
+724,725,3rd,"Coleff, Mr Fotio",24,Southampton,,,,,male,Y,MONTREAL,CANADA,N
+725,726,3rd,"Coleff, Mr Peyo",36,Southampton,"Bulgaria Chicago, IL",,,,male,Y,MIAMI BEACH,FLORIDA,N
+726,727,3rd,"Conlin, Mr Thomas Henry",31,Queenstown,"Philadelphia, PA",,,,male,Y,VANCOUVER,BRITISH COLUMBIA,N
+727,728,3rd,"Connaghton, Mr Michael",31,Queenstown,"Ireland Brooklyn, NY",,,,male,N,MONTREAL,CANADA,N
+728,729,3rd,"Connolly, Miss Kate",30,Queenstown,Ireland,,,,female,N,HONG KONG,CHINA,N
+729,730,3rd,"Connolly, Miss Kate",22,Queenstown,Ireland,,,,female,N,KUALA LUMPUR,MALAYSIA,Y
+730,731,3rd,"Connors, Mr Patrick",,Queenstown,,,,-171,male,N,NICE,FRANCE,N
+731,732,3rd,"Cook, Mr Jacob",43,Southampton,,,,,male,Y,,,N
+732,733,3rd,"Cor, Mr Bartol",35,Southampton,Austria,,,,male,Y,,,N
+733,734,3rd,"Cor, Mr Ivan",27,Southampton,Austria,,,,male,Y,MONTREAL,CANADA,N
+734,735,3rd,"Cor, Mr Ludovik",19,Southampton,Austria,,,,male,N,LONDON,UNITED KINGDOM,N
+735,736,3rd,"Corn, Mr Harry",30,Southampton,London,,,,male,N,ISTANBUL,TURKEY,N
+736,737,3rd,"Coutts, Mrs William (Minnie)",36,Southampton,"England Brooklyn, NY",,,2,female,Y,CAPE TOWN,SOUTH AFRICA,Y
+737,738,3rd,"Coutts, Master Neville",3,Southampton,"England Brooklyn, NY",,,2,male,Y,HONOLULU,HAWAII,Y
+738,739,3rd,"Coutts, Master William Leslie",9,Southampton,"England Brooklyn, NY",,,2,male,Y,ISTANBUL,TURKEY,Y
+739,740,3rd,"Coxon, Mr Daniel",59,Southampton,"Merrill, WI",,,,male,Y,BEIJING,CHINA,N
+740,741,3rd,"Crease, Mr Ernest James",19,Southampton,"Bristol, England Cleveland, OH",,,,male,N,KUALA LUMPUR,MALAYSIA,N
+741,742,3rd,"Cribb, Mr John Hatfield",44,Southampton,"Bournemouth, England Newark, NJ",,,,male,N,NEW YORK,UNITED STATES,N
+742,743,3rd,"Cribb, Miss Laura Alice",17,Southampton,"Bournemouth, England Newark, NJ",,,,female,N,VANCOUVER,BRITISH COLUMBIA,Y
+743,744,3rd,"Daher, Mr Tannous",,Cherbourg,,,,,male,N,LONDON,UNITED KINGDOM,N
+744,745,3rd,"Dahl, Mr Charles Edward",45,Southampton,"Australia Fingal, ND",,,15,male,N,VANCOUVER,BRITISH COLUMBIA,Y
+745,746,3rd,"Dahlberg, Miss Gerda Ulrika",22,Southampton,"Norrlot, Sweden Chicago, IL",,,,female,N,VANCOUVER,BRITISH COLUMBIA,N
+746,747,3rd,"Dakic, Mr Branko",19,Southampton,Austria,,,,male,N,CHICAGO,UNITED STATES,N
+747,748,3rd,"Daly, Mr Eugene",29,Queenstown,"Co Athlone, Ireland New York, NY",,,B,male,N,CAPE TOWN,SOUTH AFRICA,Y
+748,749,3rd,"Daly, Miss Marcella",30,Queenstown,"Co Athlone, Ireland New York, NY",,,,female,N,,,Y
+749,750,3rd,"Danbom, Mr Ernst Gilbert",34,Southampton,"Stanton, IA",,,,male,N,HONOLULU,HAWAII,N
+750,751,3rd,"Danbom, Mrs Ernst Gilbert (Anna Sigrid Maria Brogren)",28,Southampton,"Stanton, IA",,,,female,Y,ISTANBUL,TURKEY,N
+751,752,3rd,"Danbom, Master Gilbert Sigvard Emanuel",0.3333,Southampton,"Stanton, IA",,,,male,Y,EDINBURGH,SCOTLAND,N
+752,753,3rd,"Danoff, Mr Yoto",27,Southampton,"Bulgaria Chicago, IL",,,,male,N,BEIJING,CHINA,N
+753,754,3rd,"Dantchoff, Mr Khristo",25,Southampton,"Bulgaria Chicago, IL",,,,male,Y,,,N
+754,755,3rd,"Davies, Mr Alfred",24,Southampton,"West Bromwich, England Pontiac, MI",,,,male,Y,,,N
+755,756,3rd,"Davies, Mr Evan",22,Southampton,,,,,male,Y,BEIJING,CHINA,N
+756,757,3rd,"Davies, Mr John",21,Southampton,"West Bromwich, England Pontiac, MI",,,,male,N,RIO DE JANEIRO,BRAZIL,N
+757,758,3rd,"Davies, Mr Joseph",17,Southampton,"West Bromwich, England Pontiac, MI",,,,male,N,,,N
+758,759,3rd,"Davison, Mr Thomas Henry",,Southampton,"Liverpool, England Bedford, OH",,,,male,N,,,N
+759,760,3rd,"Davison, Mrs Thomas Henry (Mary Finck)",,Southampton,"Liverpool, England Bedford, OH",,,,female,N,HONOLULU,HAWAII,Y
+760,761,3rd,"Dean, Mr Bertram",26,Southampton,"Devon, England Wichita, KS",,,,male,N,HONG KONG,CHINA,N
+761,762,3rd,"Dean, Mrs Bertram (Eva)",33,Southampton,"Devon, England Wichita, KS",,,12,female,N,MONTREAL,CANADA,Y
+762,763,3rd,"Dean, Master Bertram Vere",1,Southampton,"Devon, England Wichita, KS",,,12,male,N,CAPE TOWN,SOUTH AFRICA,Y
+763,764,3rd,"Dean, Miss Elizabeth Gladys (Millvena)",0.1667,Southampton,"Devon, England Wichita, KS",,,12,female,Y,SYDNEY,AUSTRALIA,Y
+764,765,3rd,"Delalic, Mr Regyo",25,Southampton,,,,,male,N,HONOLULU,HAWAII,N
+765,766,3rd,"De Messemaeker, Mr William Joseph",36,Southampton,"Tampico, MT",,,15,male,Y,BEIJING,CHINA,Y
+766,767,3rd,"De Messemaeker, Mrs William Joseph (Anna)",36,Southampton,"Tampico, MT",,,13,female,Y,SYDNEY,AUSTRALIA,Y
+767,768,3rd,"De Mulder, Mr Theo",30,Southampton,"Belgium Detroit, MI",,,,male,Y,RIO DE JANEIRO,BRAZIL,Y
+768,769,3rd,"Denkoff, Mr Mito",,Southampton,"Bulgaria Coon Rapids, IA",,,,male,N,,,N
+769,770,3rd,"Dennis, Mr Samuel",23,Southampton,,,,,male,Y,MONTREAL,CANADA,N
+770,771,3rd,"Dennis, Mr William",26,Southampton,,,,,male,N,LONDON,UNITED KINGDOM,N
+771,772,3rd,"Devaney, Miss Margaret",19,Queenstown,"Kilmacowen, Co Sligo, Ireland New York, NY",,,C,female,N,TEL AVIV,ISRAEL,Y
+772,773,3rd,"Dewan, Mr Frank",65,Queenstown,,,,,male,N,,,N
+773,774,3rd,"Dibo, Mr Elias",,Cherbourg,,,,,male,Y,,,N
+774,775,3rd,"Dimic, Mr Jovan",42,Southampton,,,,,male,N,HONG KONG,CHINA,N
+775,776,3rd,"Dintcheff, Mr Valtcho",43,Southampton,,,,,male,Y,,,N
+776,777,3rd,"Dooley, Mr Patrick",32,Queenstown,"Ireland New York, NY",,,,male,N,KUALA LUMPUR,MALAYSIA,N
+777,778,3rd,"Dorkings, Mr Edward Arthur",19,Southampton,"England Oglesby, IL",,,B,male,N,,,Y
+778,779,3rd,"Dowdell, Miss Elizabeth",30,Southampton,"Union Hill, NJ",,,13,female,Y,SYDNEY,AUSTRALIA,Y
+779,780,3rd,"Doyle, Miss Elizabeth",24,Queenstown,"Ireland New York, NY",,,,female,Y,EDINBURGH,SCOTLAND,N
+780,781,3rd,"Drapkin, Miss Jennie",23,Southampton,"London New York, NY",,,,female,N,SANTA MONICA,UNITED STATES,Y
+781,782,3rd,"Drazonovic, Mr Josef",,Cherbourg,"Austria Niagara Falls, NY",,,,male,Y,BEIJING,CHINA,N
+782,783,3rd,"Driscoll, Miss Bridget",24,Queenstown,"Ballydehob, Co Cork, Ireland New York, NY",,,,female,N,HONOLULU,HAWAII,Y
+783,784,3rd,"Duquemin, Mr Joseph",24,Southampton,"England Albion, NY",,,D,male,Y,NICE,FRANCE,Y
+784,785,3rd,"Dyker, Mr Adolf Fredrik",23,Southampton,"West Haven, CT",,,,male,Y,NEW YORK,UNITED STATES,N
+785,786,3rd,"Dyker, Mrs Adolf Fredrik (Anna Elizabeth Judith Andersson)",22,Southampton,"West Haven, CT",,,,female,N,NICE,FRANCE,Y
+786,787,3rd,"Econovic, Mr Joso",,Southampton,Austria-Hungary,,,,male,N,ISTANBUL,TURKEY,N
+787,788,3rd,"Edvardsson, Mr Gustaf Hjalmar",18,Southampton,"Tofta, Sweden Joliet, IL",,,,male,N,HONG KONG,CHINA,N
+788,789,3rd,"Eklund, Mr Hans Linus",16,Southampton,"Karberg, Sweden Jerome Junction, AZ",,,,male,N,RIO DE JANEIRO,BRAZIL,N
+789,790,3rd,"Ekstrom, Mr Johan",45,Southampton,"Effington Rut, SD",,,,male,Y,VANCOUVER,BRITISH COLUMBIA,N
+790,791,3rd,"Elias, Mr Elias",,Cherbourg,Syria,,,,male,N,CHICAGO,UNITED STATES,N
+791,792,3rd,"Elias, Mr John",,Cherbourg,Syria,,,,male,Y,KUALA LUMPUR,MALAYSIA,N
+792,793,3rd,"Elias, Mr Joseph",,Cherbourg,"Syria Ottawa, ON",,,,male,N,SYDNEY,AUSTRALIA,N
+793,794,3rd,"Elsbury, Mr James",47,Southampton,"Illinois, USA",,,,male,N,LONDON,UNITED KINGDOM,N
+794,795,3rd,"Emanuel, Miss Virginia Ethel",5,Southampton,"New York, NY",,,13,female,Y,VANCOUVER,BRITISH COLUMBIA,Y
+795,796,3rd,"Emmeth, Mr Thomas",,Southampton,,,,,male,N,LONDON,UNITED KINGDOM,N
+796,797,3rd,"Everett, Thomas James",,Southampton,,,,,male,Y,BEIJING,CHINA,N
+797,798,3rd,"Farrell, Mr James",,Queenstown,"Aughnacliff, Co Longford, Ireland New York, NY",,,,male,N,CAPE TOWN,SOUTH AFRICA,N
+798,799,3rd,"Finoli, Mr Luigi",,Southampton,"Italy Philadelphia, PA",,,,male,N,,,Y
+799,800,3rd,"Fischer, Mr Eberhard Telander",,Southampton,,,,,male,N,HONOLULU,HAWAII,N
+800,801,3rd,"Flynn, Mr James",,Queenstown,,,,,male,N,EDINBURGH,SCOTLAND,N
+801,802,3rd,"Flynn, Mr John",,Queenstown,,,,,male,Y,EDINBURGH,SCOTLAND,N
+802,803,3rd,"Foley, Mr Joseph",,Queenstown,"Ireland Chicago, IL",,,,male,N,EDINBURGH,SCOTLAND,N
+803,804,3rd,"Foley, Mr William",,Queenstown,Ireland,,,,male,Y,CHICAGO,UNITED STATES,N
+804,805,3rd,"Foo, Mr Choong",,Southampton,"Hong Kong New York, NY",,,,male,N,HONG KONG,CHINA,Y
+805,806,3rd,"Ford, Mr Arthur",,Southampton,"Bridgwater, Somerset, England",,,,male,N,EDINBURGH,SCOTLAND,N
+806,807,3rd,"Ford, Miss Doolina Margaret",21,Southampton,"Rotherfield, Sussex, England Essex Co, MA",,,,female,N,BEIJING,CHINA,N
+807,808,3rd,"Ford, Mr Edward Watson",18,Southampton,"Rotherfield, Sussex, England Essex Co, MA",,,,male,Y,NICE,FRANCE,N
+808,809,3rd,"Ford, Miss Maggie",9,Southampton,"Rotherfield, Sussex, England Essex Co, MA",,,,female,N,RIO DE JANEIRO,BRAZIL,N
+809,810,3rd,"Ford, Mrs Edward (Margaret Ann)",48,Southampton,"Rotherfield, Sussex, England Essex Co, MA",,,,female,N,,,N
+810,811,3rd,"Ford, Mr Neil Watson",16,Southampton,"Rotherfield, Sussex, England Essex Co, MA",,,,male,Y,BEIJING,CHINA,N
+811,812,3rd,"Fox, Mr Patrick",,Queenstown,"Ireland New York, NY",,,,male,N,ISTANBUL,TURKEY,N
+812,813,3rd,"Franklin, Mr Charles",,Southampton,,,,,male,N,,,N
+813,814,3rd,"Gallagher, Mr Martin",25,Queenstown,"New York, NY",,,,male,Y,EDINBURGH,SCOTLAND,N
+814,815,3rd,"Garfirth, Mr John",,Southampton,,,,,male,N,CHICAGO,UNITED STATES,N
+815,816,3rd,"Georges, Mrs Shahini Weappi",,Cherbourg,"Youngstown, OH",,,,female,Y,KUALA LUMPUR,MALAYSIA,Y
+816,817,3rd,"Gilinski, Mr Leslie",22,Southampton,,,,,male,Y,SANTA MONICA,UNITED STATES,N
+817,818,3rd,"Gilnagh, Miss Katie",16,Queenstown,"Co Longford, Ireland New York, NY",,,,female,Y,RIO DE JANEIRO,BRAZIL,Y
+818,819,3rd,"Glynn, Miss Mary Agatha",,Queenstown,"Co Clare, Ireland Washington, DC",,,13,female,Y,,,Y
+819,820,3rd,"Goldsmith, Mr Frank John",33,Southampton,"Strood, Kent, England Detroit, MI",,,,male,N,BEIJING,CHINA,N
+820,821,3rd,"Goldsmith, Mrs Frank John (Emily A. Brown)",,Southampton,"Strood, Kent, England Detroit, MI",,,C,female,N,KUALA LUMPUR,MALAYSIA,Y
+821,822,3rd,"Goldsmith, Master Frank John William",9,Southampton,"Strood, Kent, England Detroit, MI",,,C,male,N,RIO DE JANEIRO,BRAZIL,Y
+822,823,3rd,"Goldsmith, Mr Nathan",41,Southampton,"Philadelphia, PA",,,,male,Y,MONTREAL,CANADA,N
+823,824,3rd,"Goncalves, Mr Manuel Estanslas",38,Southampton,Portugal,,,,male,N,BEIJING,CHINA,N
+824,825,3rd,"Goodwin, Mr Frederick",40,Southampton,"Wiltshire, England Niagara Falls, NY",,,,male,Y,CHICAGO,UNITED STATES,N
+825,826,3rd,"Goodwin, Mrs Frederick (Augusta)",43,Southampton,"Wiltshire, England Niagara Falls, NY",,,,female,N,CHICAGO,UNITED STATES,N
+826,827,3rd,"Goodwin, Mr Charles E.",14,Southampton,"Wiltshire, England Niagara Falls, NY",,,,male,N,ISTANBUL,TURKEY,N
+827,828,3rd,"Goodwin, Miss Lillian A.",16,Southampton,"Wiltshire, England Niagara Falls, NY",,,,female,N,HONG KONG,CHINA,N
+828,829,3rd,"Goodwin, Master Harold V.",9,Southampton,"Wiltshire, England Niagara Falls, NY",,,,male,N,,,N
+829,830,3rd,"Goodwin, Miss Jessie A.",10,Southampton,"Wiltshire, England Niagara Falls, NY",,,,female,Y,NEW YORK,UNITED STATES,N
+830,831,3rd,"Goodwin, Master Sidney L.",6,Southampton,"Wiltshire, England Niagara Falls, NY",,,,male,N,LONDON,UNITED KINGDOM,N
+831,832,3rd,"Goodwin, Master William F.",11,Southampton,"Wiltshire, England Niagara Falls, NY",,,,male,N,,,N
+832,833,3rd,"Green, Mr George",40,Southampton,"Dorking, Surrey, England",,,,male,N,ISTANBUL,TURKEY,N
+833,834,3rd,"Gronnestad, Mr Daniel Danielsen",32,Southampton,"Foresvik, Norway Portland, ND",,,,male,N,MONTREAL,CANADA,N
+834,835,3rd,"Guest, Mr Robert",,Southampton,,,,,male,N,ISTANBUL,TURKEY,N
+835,836,3rd,"Gustafsson, Mr Alfred Ossian",20,Southampton,"Waukegan, Chicago, IL",,,,male,N,ISTANBUL,TURKEY,N
+836,837,3rd,"Gustafsson, Mr Anders Vilhelm",37,Southampton,"Ruotsinphytaa, Finland New York, NY",,,,male,N,KUALA LUMPUR,MALAYSIA,N
+837,838,3rd,"Gustafsson, Mr Johan Birger",28,Southampton,"Ruotsinphytaa, Finland New York, NY",,,,male,Y,TEL AVIV,ISRAEL,N
+838,839,3rd,"Gustafsson, Mr Karl Gideon",19,Southampton,"Myren, Sweden New York, NY",,,,male,N,CHICAGO,UNITED STATES,N
+839,840,3rd,"Haas, Miss Aloisia",,,,,,,female,Y,EDINBURGH,SCOTLAND,N
+840,841,3rd,"Hagardon, Miss Kate",,,,,,,female,Y,CHICAGO,UNITED STATES,N
+841,842,3rd,"Hagland, Mr Ingvald Olsen",,,,,,,male,Y,CHICAGO,UNITED STATES,N
+842,843,3rd,"Hagland, Mr Konrad Mathias Reiersen",,,,,,,male,Y,,,N
+843,844,3rd,"Hakkarainen, Mr Pekko Pietari",,,,,,,male,N,LONDON,UNITED KINGDOM,N
+844,845,3rd,"Hakkarainen, Mrs Pekko Pietari",,,,,,,female,N,RIO DE JANEIRO,BRAZIL,Y
+845,846,3rd,"Hampe, Mr Leon",,,,,,,male,Y,BEIJING,CHINA,N
+846,847,3rd,"Hansen, Mr Claus Peter",,,,,,,male,Y,TEL AVIV,ISRAEL,N
+847,848,3rd,"Hansen, Mrs Claus Peter",,,,,,,female,Y,TEL AVIV,ISRAEL,Y
+848,849,3rd,"Hansen, Mr Henrik Juul",,,,,,,male,Y,,,N
+849,850,3rd,"Hansen, Mr Henry Damsgaard",,,,,,,male,N,CHICAGO,UNITED STATES,N
+850,851,3rd,"Harknett, Miss Alice",,,,,,,female,Y,BEIJING,CHINA,N
+851,852,3rd,"Harmer, Mr Abraham",,,,,,,male,Y,,,N
+852,853,3rd,"Hart, Mr Henry",,,,,,,male,Y,NEW YORK,UNITED STATES,N
+853,854,3rd,"Hassan, Mr M. Houssein",,,,,,,male,Y,KUALA LUMPUR,MALAYSIA,N
+854,855,3rd,"Healy, Miss Nora",,,,,,,female,Y,,,N
+855,856,3rd,"Hedman, Mr Oscar",,,,,,,male,Y,HONOLULU,HAWAII,Y
+856,857,3rd,"Hee, Mr Ling",,,,,,,male,N,EDINBURGH,SCOTLAND,N
+857,858,3rd,"Hegarty, Miss Nora",,,,,,,female,N,ISTANBUL,TURKEY,N
+858,859,3rd,"Heikkinen, Miss Laina",,,,,,,female,Y,MIAMI BEACH,FLORIDA,Y
+859,860,3rd,"Heininen, Miss Wendla Maria",,,,,,,female,N,LONDON,UNITED KINGDOM,N
+860,861,3rd,"Hellstrom, Hilda Maria",,,,,,,female,Y,NEW YORK,UNITED STATES,Y
+861,862,3rd,"Hemming, Miss Nora",,,,,,,female,Y,HONOLULU,HAWAII,N
+862,863,3rd,"Hendekovic, Mr Ignaz",,,,,,,male,Y,HONOLULU,HAWAII,N
+863,864,3rd,"Henery, Delia",,,,,,,female,N,,,N
+864,865,3rd,"Henriksson, Jenny Lovisa",,,,,,,female,Y,KUALA LUMPUR,MALAYSIA,N
+865,866,3rd,"Hirvonen, Mrs Alexander",,,,,,,female,N,RIO DE JANEIRO,BRAZIL,Y
+866,867,3rd,"Hirvonen, Miss Hildur E.",,,,,,,female,N,CHICAGO,UNITED STATES,N
+867,868,3rd,"Holm, Mr John Frederik Alexander",,,,,,,male,N,KUALA LUMPUR,MALAYSIA,N
+868,869,3rd,"Holthen, Mr Johan Martin",,,,,,,male,N,CHICAGO,UNITED STATES,N
+869,870,3rd,"Honkanen, Miss Eluna",,,,,,,female,N,ISTANBUL,TURKEY,Y
+870,871,3rd,"Horgan, Mr John",,,,,,,male,N,MONTREAL,CANADA,N
+871,872,3rd,"Howard, Miss May",,,,,,,female,N,NICE,FRANCE,Y
+872,873,3rd,"Humblin, Mr Adolf Mathias Nicolai Olsen",,,,,,,male,Y,CHICAGO,UNITED STATES,N
+873,874,3rd,"Hyman, Mr Abraham",,,,,,,male,Y,NICE,FRANCE,Y
+874,875,3rd,"Ilieff, Mr Ylio",,,,,,,male,N,MONTREAL,CANADA,N
+875,876,3rd,"Ilmakangas, Miss Ida Livija",,,,,,,female,N,SYDNEY,AUSTRALIA,N
+876,877,3rd,"Ilmakangas, Miss Pieta Sofia",,,,,,,female,N,HONOLULU,HAWAII,N
+877,878,3rd,"Ivanoff, Mr Konio",,,,,,,male,Y,NEW YORK,UNITED STATES,N
+878,879,3rd,"Jansen, Mr Carl Olof",,,,,,,male,N,TEL AVIV,ISRAEL,Y
+879,880,3rd,"Jardin, Mr Jose Netto",,,,,,,male,N,MONTREAL,CANADA,N
+880,881,3rd,"Jensen, Miss Carla Christine",,,,,,,female,Y,SANTA MONICA,UNITED STATES,Y
+881,882,3rd,"Jensen, Mr Hans Peder",,,,,,,male,N,NEW YORK,UNITED STATES,N
+882,883,3rd,"Jensen, Mr Niels Peder",,,,,,,male,Y,HONOLULU,HAWAII,N
+883,884,3rd,"Jensen, Mr Svend Lauritz",,,,,,,male,N,BEIJING,CHINA,N
+884,885,3rd,"Jermyn, Miss Annie",,,,,,,female,N,LONDON,UNITED KINGDOM,Y
+885,886,3rd,"Johannesen-Bratthammer, Mr Bernt",,,,,,,male,N,ISTANBUL,TURKEY,N
+886,887,3rd,"Johanson, Mr Jakob Alfred",,,,,,,male,Y,BEIJING,CHINA,N
+887,888,3rd,"Johansson, Mr Erik",,,,,,,male,N,BEIJING,CHINA,N
+888,889,3rd,"Johansson, Mr Gustaff Joel",,,,,,,male,Y,BEIJING,CHINA,N
+889,890,3rd,"Johansson, Mr Karl Johan",,,,,,,male,N,HONOLULU,HAWAII,Y
+890,891,3rd,"Johansson, Mr Nils",,,,,,,male,N,BEIJING,CHINA,N
+891,892,3rd,"Johansson, Oscar L.",,,,,,,male,N,NICE,FRANCE,Y
+892,893,3rd,"Johnson, Mr Alfred",,,,,,,male,Y,KUALA LUMPUR,MALAYSIA,N
+893,894,3rd,"Johnson, Miss Eleanor Ileen",,,,,,,female,Y,RIO DE JANEIRO,BRAZIL,Y
+894,895,3rd,"Johnson, Mr Malkolm Joackim",,,,,,,male,N,,,N
+895,896,3rd,"Johnson, Master Harold Theodor",,,,,,,male,N,RIO DE JANEIRO,BRAZIL,Y
+896,897,3rd,"Johnson, Mrs Oscar W.",,,,,,,female,Y,CHICAGO,UNITED STATES,N
+897,898,3rd,"Johnson, Mr William Cahoone Jr.",,,,,,,male,N,SYDNEY,AUSTRALIA,N
+898,899,3rd,"Johnston, Mr Andrew G.",,,,,,,male,Y,VANCOUVER,BRITISH COLUMBIA,N
+899,900,3rd,"Johnston, Mrs Andrew G.",,,,,,,female,Y,,,N
+900,901,3rd,"Johnston, Miss Catherine H.",,,,,,,female,N,NEW YORK,UNITED STATES,N
+901,902,3rd,"Johnston, Master William A.",,,,,,,male,N,BEIJING,CHINA,N
+902,903,3rd,"Jonkoff, Mr Lazor",,,,,,,male,N,RIO DE JANEIRO,BRAZIL,N
+903,904,3rd,"Jonsson, Mr Carl",,,,,,,male,Y,HONOLULU,HAWAII,Y
+904,905,3rd,"Jonsson, Nils Hilding",,,,,,,male,N,HONG KONG,CHINA,N
+905,906,3rd,"Jussila, Miss Aina Maria",,,,,,,female,Y,SYDNEY,AUSTRALIA,N
+906,907,3rd,"Jussila, Mr Erik",,,,,,,male,N,NICE,FRANCE,Y
+907,908,3rd,"Jussila, Miss Katriina",,,,,,,female,Y,HONG KONG,CHINA,N
+908,909,3rd,"Kallio, Mr Nikolai Erland",,,,,,,male,Y,BEIJING,CHINA,N
+909,910,3rd,"Kalvig, Mr Johannes K. Halverson",,,,,,,male,N,ISTANBUL,TURKEY,N
+910,911,3rd,"Karajic, Mr Milan",,,,,,,male,Y,,,N
+911,912,3rd,"Karlsson, Mr Einar Gervasius",,,,,,,male,Y,HONOLULU,HAWAII,Y
+912,913,3rd,"Karlsson, Mr Julius Konrad Eugen",,,,,,,male,N,MIAMI BEACH,FLORIDA,N
+913,914,3rd,"Karlsson, Mr Nils August",,,,,,,male,Y,ISTANBUL,TURKEY,N
+914,915,3rd,"Karun, Miss Anna Mary",,,,,,,female,Y,VANCOUVER,BRITISH COLUMBIA,Y
+915,916,3rd,"Karun, Mr Franz",,,,,,,male,Y,ISTANBUL,TURKEY,N
+916,917,3rd,"Kassem, Mr Fared",,,,,,,male,N,HONG KONG,CHINA,N
+917,918,3rd,"Keane, Mr Andrew",,,,,,,male,N,MONTREAL,CANADA,N
+918,919,3rd,"Keefe, Mr Arthur",,,,,,,male,N,CAPE TOWN,SOUTH AFRICA,N
+919,920,3rd,"Kekic, Mr Tido",,,,,,,male,N,NEW YORK,UNITED STATES,N
+920,921,3rd,"Kelly, Miss Anna Kate",,,,,,,female,Y,NICE,FRANCE,Y
+921,922,3rd,"Kelly, Mr James",,,,,,,male,N,ISTANBUL,TURKEY,N
+922,923,3rd,"Kelly, Mr James",,,,,,,male,N,RIO DE JANEIRO,BRAZIL,N
+923,924,3rd,"Kelly, Miss Mary",,,,,,,female,Y,SANTA MONICA,UNITED STATES,Y
+924,925,3rd,"Kennedy, Mr John",,,,,,,male,Y,,,N
+925,926,3rd,"Khalil, Mr Betros",,,,,,,male,N,BARCELONA,SPAIN,N
+926,927,3rd,"Khalil, Mrs Betros",,,,,,,female,Y,ISTANBUL,TURKEY,N
+927,928,3rd,"Khalil, Mr Saad",,,,,,,male,N,HONG KONG,CHINA,N
+928,929,3rd,"Kiernan, Mr John",,,,,,,male,N,HONG KONG,CHINA,N
+929,930,3rd,"Kiernan, Mr Philip",,,,,,,male,N,LONDON,UNITED KINGDOM,N
+930,931,3rd,"Kilgannon, Mr Thomas",,,,,,,male,Y,MONTREAL,CANADA,N
+931,932,3rd,"Kink, Mr Anton",,,,,,,male,Y,CAPE TOWN,SOUTH AFRICA,Y
+932,933,3rd,"Kink, Mrs Anton (Louise Heilmann)",,,,,,,female,Y,ISTANBUL,TURKEY,N
+933,934,3rd,"Kink, Miss Louise Gretchen",,,,,,,female,N,SYDNEY,AUSTRALIA,Y
+934,935,3rd,"Kink, Miss Maria",,,,,,,female,Y,VANCOUVER,BRITISH COLUMBIA,N
+935,936,3rd,"Kink, Mr Vincenz",,,,,,,male,N,BEIJING,CHINA,N
+936,937,3rd,"Klasen, Miss Gertrud Emilia",,,,,,,female,N,EDINBURGH,SCOTLAND,N
+937,938,3rd,"Klasen, Mrs Hulda Kristina",,,,,,,female,Y,EDINBURGH,SCOTLAND,N
+938,939,3rd,"Klasen, Mr Klas Albin",,,,,,,male,N,BEIJING,CHINA,N
+939,940,3rd,"Kraeff, Mr Theodor",,,,,,,male,Y,NEW YORK,UNITED STATES,N
+940,941,3rd,"Krekorian, Mr Neshan",,,,,,,male,N,MIAMI BEACH,FLORIDA,Y
+941,942,3rd,"Lahowd, Mr Sarkis",,,,,,,male,N,TEL AVIV,ISRAEL,N
+942,943,3rd,"Laitinen, Miss Kritina Sofia",,,,,,,female,N,EDINBURGH,SCOTLAND,N
+943,944,3rd,"Laleff, Mr Kristo",,,,,,,male,N,LONDON,UNITED KINGDOM,N
+944,945,3rd,"Lam, Mr Ali",,,,,,,male,Y,NICE,FRANCE,Y
+945,946,3rd,"Lam, Mr Len",,,,,,,male,N,NICE,FRANCE,N
+946,947,3rd,"Landegren, Miss Aurora Adelia",,,,,,,female,N,MIAMI BEACH,FLORIDA,Y
+947,948,3rd,"Lane, Mr Patrick",,,,,,,male,N,ISTANBUL,TURKEY,N
+948,949,3rd,"Lang, Mr Fang",,,,,,,male,Y,MIAMI BEACH,FLORIDA,Y
+949,950,3rd,"Larsson, Mr August Viktor",,,,,,,male,Y,MONTREAL,CANADA,N
+950,951,3rd,"Larsson, Mr Bengt Edvin",,,,,,,male,N,EDINBURGH,SCOTLAND,N
+951,952,3rd,"Larsson-Rondberg, Mr Edvard",,,,,,,male,N,TEL AVIV,ISRAEL,N
+952,953,3rd,"Leeni, Mr Fahim",,,,,,,male,N,CHICAGO,UNITED STATES,Y
+953,954,3rd,"Lefebre, Mrs Frank",,,,,,,female,Y,LONDON,UNITED KINGDOM,N
+954,955,3rd,"Lefebre, Master Henry",,,,,,,male,Y,SANTA MONICA,UNITED STATES,N
+955,956,3rd,"Lefebre, Miss Ida",,,,,,,female,Y,VANCOUVER,BRITISH COLUMBIA,N
+956,957,3rd,"Lefebre, Miss Jeannie",,,,,,,female,N,,,N
+957,958,3rd,"Lefebre, Miss Mathilde",,,,,,,female,Y,RIO DE JANEIRO,BRAZIL,N
+958,959,3rd,"Leinonen, Mr Antti Gustaf",,,,,,,male,Y,LONDON,UNITED KINGDOM,N
+959,960,3rd,"Lemberopolous, Mr Peter L.",,,,,,,male,Y,NEW YORK,UNITED STATES,N
+960,961,3rd,"Lemom, Mr Denis",,,,,,,male,N,HONG KONG,CHINA,N
+961,962,3rd,"Lemon, Miss Mary",,,,,,,female,N,NICE,FRANCE,N
+962,963,3rd,"Leonard, Mr Lionel",,,,,,,male,N,HONG KONG,CHINA,N
+963,964,3rd,"Lester, Mr James",,,,,,,male,Y,BEIJING,CHINA,N
+964,965,3rd,"Lindahl, Miss Agda V.",,,,,,,female,Y,MIAMI BEACH,FLORIDA,N
+965,966,3rd,"Lindblom, Miss Augusta Charlotta",,,,,,,female,N,LONDON,UNITED KINGDOM,N
+966,967,3rd,"Lindell, Mr Edvard Bengtsson",,,,,,,male,N,SANTA MONICA,UNITED STATES,N
+967,968,3rd,"Lindell, Mrs Edvard Bengtsson",,,,,,,female,Y,MIAMI BEACH,FLORIDA,N
+968,969,3rd,"Lindqvist, Eino William",,,,,,,male,N,TEL AVIV,ISRAEL,Y
+969,970,3rd,"Linehan, Mr Michael",,,,,,,male,Y,,,N
+970,971,3rd,"Ling, Mr Lee",,,,,,,male,N,NICE,FRANCE,N
+971,972,3rd,"Lithman, Mr Simon",,,,,,,male,Y,SANTA MONICA,UNITED STATES,N
+972,973,3rd,"Lobb, Mr William Arthur",,,,,,,male,N,BEIJING,CHINA,N
+973,974,3rd,"Lobb, Mrs William Arthur",,,,,,,female,Y,BEIJING,CHINA,N
+974,975,3rd,"Lockyer, Mr Edward",,,,,,,male,Y,CHICAGO,UNITED STATES,N
+975,976,3rd,"Lovell, Mr John",,,,,,,male,N,VANCOUVER,BRITISH COLUMBIA,N
+976,977,3rd,"Lulich, Mr Nicola",,,,,,,male,N,,,Y
+977,978,3rd,"Lundahl, Mr Johan",,,,,,,male,N,EDINBURGH,SCOTLAND,N
+978,979,3rd,"Lundin, Miss Olga Elida",,,,,,,female,Y,NICE,FRANCE,Y
+979,980,3rd,"Lundstrom, Mr Thure Edvin",,,,,,,male,Y,CHICAGO,UNITED STATES,N
+980,981,3rd,"Lyntakoff, Mr Stanko",,,,,,,male,N,LONDON,UNITED KINGDOM,N
+981,982,3rd,"MacKay, Mr George William",,,,,,,male,N,KUALA LUMPUR,MALAYSIA,N
+982,983,3rd,"Madigan, Miss Margaret",,,,,,,female,Y,SANTA MONICA,UNITED STATES,Y
+983,984,3rd,"Madsen, Mr Frithiof",,,,,,,male,Y,BEIJING,CHINA,N
+984,985,3rd,"Maenpaa, Mr Matti Alexanteri",,,,,,,male,N,HONG KONG,CHINA,N
+985,986,3rd,"Mahon, Miss Delia",,,,,,,female,Y,,,N
+986,987,3rd,"Maisner, Mr Simon",,,,,,,male,Y,,,N
+987,988,3rd,"Makinen, Mr Kalle Edvard",,,,,,,male,N,BEIJING,CHINA,N
+988,989,3rd,"Mamee, Mr Hanna",,,,,,,male,Y,HONOLULU,HAWAII,Y
+989,990,3rd,"Mangan, Miss Mary",,,,,,,female,N,ISTANBUL,TURKEY,N
+990,991,3rd,"Mannion, Miss Margareth",,,,,,,female,N,,,Y
+991,992,3rd,"Mansour, Mr Hanna",,,,,,,male,Y,MONTREAL,CANADA,N
+992,993,3rd,"Mardirosian, Mr Sarkis",,,,,,,male,Y,NICE,FRANCE,N
+993,994,3rd,"Marinko, Mr Dmitri",,,,,,,male,N,HONOLULU,HAWAII,N
+994,995,3rd,"Markim, Mr Johann",,,,,,,male,N,BEIJING,CHINA,N
+995,996,3rd,"Markoff, Mr Marin",,,,,,,male,Y,ISTANBUL,TURKEY,N
+996,997,3rd,"Masselmany, Mrs Fatima",,,,,,,female,Y,MIAMI BEACH,FLORIDA,Y
+997,998,3rd,"Matinoff, Mr Nicola",,,,,,,male,N,,,N
+998,999,3rd,"McCarthy, Miss Katie",,,,,,,female,Y,MIAMI BEACH,FLORIDA,Y
+999,1000,3rd,"McCormack, Mr Thomas J.",,,,,,,male,Y,LONDON,UNITED KINGDOM,N
+1000,1001,3rd,"McCoy, Miss Agnes",,,,,,,female,N,SANTA MONICA,UNITED STATES,N
+1001,1002,3rd,"McCoy, Miss Alice",,,,,,,female,N,,,N
+1002,1003,3rd,"McCoy, Mr Bernard",,,,,,,male,N,SYDNEY,AUSTRALIA,N
+1003,1004,3rd,"McDermott, Miss Delia",,,,,,,female,Y,NICE,FRANCE,N
+1004,1005,3rd,"McElroy, Mr Michael",,,,,,,male,N,CHICAGO,UNITED STATES,N
+1005,1006,3rd,"McGovern, Mrs Hugh",,,,,,,female,Y,MIAMI BEACH,FLORIDA,Y
+1006,1007,3rd,"McGowan, Miss Anna",,,,,,,female,Y,CHICAGO,UNITED STATES,N
+1007,1008,3rd,"McGowan, Miss Katherine",,,,,,,female,N,,,N
+1008,1009,3rd,"McMahon, Mr Martin",,,,,,,male,N,HONOLULU,HAWAII,N
+1009,1010,3rd,"McNamee, Mr Neal",,,,,,,male,N,NEW YORK,UNITED STATES,N
+1010,1011,3rd,"McNamee, Mrs Neal",,,,,,,female,N,NICE,FRANCE,N
+1011,1012,3rd,"Meanwell, Miss Marion Ogden",,,,,,,female,N,CHICAGO,UNITED STATES,N
+1012,1013,3rd,"Mechen, Mr John",,,,,,,male,N,HONG KONG,CHINA,N
+1013,1014,3rd,"Meek, Mrs Thomas",,,,,,,female,N,EDINBURGH,SCOTLAND,N
+1014,1015,3rd,"Melkebuk, Mrs Philemon",,,,,,,female,Y,CAPE TOWN,SOUTH AFRICA,N
+1015,1016,3rd,"Meo, Mr Alfonso",,,,,,,male,Y,ISTANBUL,TURKEY,N
+1016,1017,3rd,"Midtsjo, Mr Karl Albert",,,,,,,male,Y,KUALA LUMPUR,MALAYSIA,Y
+1017,1018,3rd,"Mihoff, Mr Stoytcho",,,,,,,male,Y,,,N
+1018,1019,3rd,"Miles, Mr Frank",,,,,,,male,N,BEIJING,CHINA,N
+1019,1020,3rd,"Mineff, Mr Ivan",,,,,,,male,Y,BEIJING,CHINA,N
+1020,1021,3rd,"Minkoff, Mr Lazar",,,,,,,male,Y,RIO DE JANEIRO,BRAZIL,N
+1021,1022,3rd,"Mirko, Mr Dika",,,,,,,male,N,BEIJING,CHINA,N
+1022,1023,3rd,"Mitkoff, Mr Mito",,,,,,,male,N,EDINBURGH,SCOTLAND,N
+1023,1024,3rd,"Mocklare, Miss Helen Mary",,,,,,,female,N,CAPE TOWN,SOUTH AFRICA,Y
+1024,1025,3rd,"Moen, Mr Sigurd H.",,,,,,,male,N,CHICAGO,UNITED STATES,N
+1025,1026,3rd,"Moor, Mrs Beila",,,,,,,female,N,VANCOUVER,BRITISH COLUMBIA,Y
+1026,1027,3rd,"Moor, Master Meier",,,,,,,male,N,BEIJING,CHINA,N
+1027,1028,3rd,"Moore, Mr Leonard Charles",,,,,,,male,N,CHICAGO,UNITED STATES,N
+1028,1029,3rd,"Moran, Miss Bertha",,,,,,,female,Y,RIO DE JANEIRO,BRAZIL,Y
+1029,1030,3rd,"Moran, Mr Daniel J.",,,,,,,male,N,LONDON,UNITED KINGDOM,N
+1030,1031,3rd,"Moran, Mr James",,,,,,,male,Y,KUALA LUMPUR,MALAYSIA,N
+1031,1032,3rd,"Morley, Mr Henry Samuel",,,,,,,male,Y,,,N
+1032,1033,3rd,"Morrow, Mr Thomas Rowan",,,,,,,male,N,NICE,FRANCE,N
+1033,1034,3rd,"Moubarek (Borak), Mr Hanna (John)",,,,,,,male,Y,,,Y
+1034,1035,3rd,"Moubarek, Mrs George",,,,,,,female,Y,HONG KONG,CHINA,N
+1035,1036,3rd,"Moubarek, Master George",,,,,,,male,Y,BARCELONA,SPAIN,N
+1036,1037,3rd,"Moubarek, Master William George",,,,,,,male,N,KUALA LUMPUR,MALAYSIA,N
+1037,1038,3rd,"Moss, Albert Johan",,,,,,,male,Y,MIAMI BEACH,FLORIDA,N
+1038,1039,3rd,"Moussa, Mrs Mantoura Baloics",,,,,,,female,Y,NEW YORK,UNITED STATES,N
+1039,1040,3rd,"Moutal, Mr Rahamin",,,,,,,male,N,MONTREAL,CANADA,N
+1040,1041,3rd,"Mullins, Miss Katie",,,,,,,female,N,BARCELONA,SPAIN,Y
+1041,1042,3rd,"Mulvihill, Miss Bertha E.",,,,,,,female,Y,EDINBURGH,SCOTLAND,N
+1042,1043,3rd,"Murdlin, Mr Joseph",,,,,,,male,N,RIO DE JANEIRO,BRAZIL,N
+1043,1044,3rd,"Murphy, Miss Katherine",,,,,,,female,N,KUALA LUMPUR,MALAYSIA,N
+1044,1045,3rd,"Murphy, Miss Margaret",,,,,,,female,N,,,N
+1045,1046,3rd,"Murphy, Miss Nora",,,,,,,female,Y,CHICAGO,UNITED STATES,N
+1046,1047,3rd,"Myhrman, Mr Pehr Fabian Oliver Malkolm",,,,,,,male,N,HONG KONG,CHINA,N
+1047,1048,3rd,"Nackid, Miss Maria",,,,,,,female,Y,LONDON,UNITED KINGDOM,Y
+1048,1049,3rd,"Nackid, Mr Said",,,,,,,male,N,CHICAGO,UNITED STATES,N
+1049,1050,3rd,"Nackid, Mrs Said",,,,,,,female,Y,VANCOUVER,BRITISH COLUMBIA,N
+1050,1051,3rd,"Nahill, Mr Toufik",,,,,,,male,N,BEIJING,CHINA,N
+1051,1052,3rd,"Naidenoff, Mr Penko",,,,,,,male,N,HONG KONG,CHINA,N
+1052,1053,3rd,"Nancarrow, W. H.",,,,,,,male,Y,VANCOUVER,BRITISH COLUMBIA,N
+1053,1054,3rd,"Niklasen, Sander",,,,,,,male,N,KUALA LUMPUR,MALAYSIA,N
+1054,1055,3rd,"Nosworthy, Richard C.",,,,,,,male,N,HONOLULU,HAWAII,N
+1055,1056,3rd,"Najib, Miss Adele Kiamie",,,,,,,female,Y,VANCOUVER,BRITISH COLUMBIA,Y
+1056,1057,3rd,"Nancarrow, Mr William Henry",,,,,,,male,Y,SYDNEY,AUSTRALIA,N
+1057,1058,3rd,"Nankoff, Mr Minko",,,,,,,male,N,MONTREAL,CANADA,N
+1058,1059,3rd,"Nasr, Mr Mustafa",,,,,,,male,N,LONDON,UNITED KINGDOM,N
+1059,1060,3rd,"Nassr, Mr Saade Jean",,,,,,,male,Y,CAPE TOWN,SOUTH AFRICA,N
+1060,1061,3rd,"Naughton, Miss Hannah",,,,,,,female,Y,CHICAGO,UNITED STATES,N
+1061,1062,3rd,"Nemaugh, Mr Robert",,,,,,,male,N,ISTANBUL,TURKEY,N
+1062,1063,3rd,"Nenkoff, Mr Christo",,,,,,,male,Y,LONDON,UNITED KINGDOM,N
+1063,1064,3rd,"Nicola-Yarred, Miss Jamila",,,,,,,female,Y,SYDNEY,AUSTRALIA,Y
+1064,1065,3rd,"Nicola-Yarred, Master Elias",,,,,,,male,N,LONDON,UNITED KINGDOM,N
+1065,1066,3rd,"Nieminen, Miss Manta Josefina",,,,,,,female,N,TEL AVIV,ISRAEL,N
+1066,1067,3rd,"Niklasson, Mr Samuel",,,,,,,male,Y,MIAMI BEACH,FLORIDA,N
+1067,1068,3rd,"Nilsson, Mr August Ferdinand",,,,,,,male,Y,CHICAGO,UNITED STATES,N
+1068,1069,3rd,"Nilsson, Miss Berta Olivia",,,,,,,female,Y,CAPE TOWN,SOUTH AFRICA,Y
+1069,1070,3rd,"Nilsson, Miss Helmina Josefina",,,,,,,female,Y,,,N
+1070,1071,3rd,"Niskanen, Mr Johan",,,,,,,male,Y,CHICAGO,UNITED STATES,N
+1071,1072,3rd,"Nosworthy, Mr Richard Cater",,,,,,,male,Y,ISTANBUL,TURKEY,N
+1072,1073,3rd,"Novel, Mansouer",,,,,,,male,N,MONTREAL,CANADA,Y
+1073,1074,3rd,"Nysten, Miss Anna",,,,,,,female,N,HONG KONG,CHINA,N
+1074,1075,3rd,"Nysveen, Mr Johan H.",,,,,,,male,Y,RIO DE JANEIRO,BRAZIL,N
+1075,1076,3rd,"O'Brien, Mr Denis",,,,,,,male,N,,,N
+1076,1077,3rd,"O'Brien, Mr Thomas",,,,,,,male,N,,,N
+1077,1078,3rd,"O'Brien, Mrs Thomas",,,,,,,female,N,MIAMI BEACH,FLORIDA,Y
+1078,1079,3rd,"O'Connell, Mr Patrick D.",,,,,,,male,N,EDINBURGH,SCOTLAND,N
+1079,1080,3rd,"O'Connor, Mr Maurice",,,,,,,male,N,LONDON,UNITED KINGDOM,N
+1080,1081,3rd,"O'Connor, Mr Patrick",,,,,,,male,Y,,,N
+1081,1082,3rd,"Odahl, Mr Nils Martin",,,,,,,male,N,RIO DE JANEIRO,BRAZIL,Y
+1082,1083,3rd,"O'Dwyer, Miss Nellie",,,,,,,female,N,ISTANBUL,TURKEY,N
+1083,1084,3rd,"Ohman, Miss Velin",,,,,,,female,Y,,,N
+1084,1085,3rd,"O'Keefe, Mr Patrick",,,,,,,male,Y,,,N
+1085,1086,3rd,"OLeary, Miss Norah",,,,,,,female,N,KUALA LUMPUR,MALAYSIA,N
+1086,1087,3rd,"Olsen, Master Arthur",,,,,,,male,N,CAPE TOWN,SOUTH AFRICA,N
+1087,1088,3rd,"Olsen, Mr Charlie (Carl)",,,,,,,male,Y,KUALA LUMPUR,MALAYSIA,N
+1088,1089,3rd,"Olsen, Mr Henry Margido",,,,,,,male,Y,KUALA LUMPUR,MALAYSIA,N
+1089,1090,3rd,"Olsen, Mr Ole M.",,,,,,,male,N,LONDON,UNITED KINGDOM,N
+1090,1091,3rd,"Olsson, Miss Elida",,,,,,,female,N,LONDON,UNITED KINGDOM,N
+1091,1092,3rd,"Olsson, Mr Nils Johan",,,,,,,male,N,ISTANBUL,TURKEY,N
+1092,1093,3rd,"Olsson, Mr Oscar Johansson",,,,,,,male,Y,NICE,FRANCE,Y
+1093,1094,3rd,"O'Neill, Miss Bridget",,,,,,,female,Y,CHICAGO,UNITED STATES,N
+1094,1095,3rd,"Oreskovic, Mr Jeko",,,,,,,male,Y,KUALA LUMPUR,MALAYSIA,N
+1095,1096,3rd,"Oreskovic, Mr Luka",,,,,,,male,N,ISTANBUL,TURKEY,N
+1096,1097,3rd,"Oreskovic, Mr Maria",,,,,,,male,N,SANTA MONICA,UNITED STATES,N
+1097,1098,3rd,"Osen, Mr Olof Elon",,,,,,,male,Y,BEIJING,CHINA,N
+1098,1099,3rd,"Osman, Miss Maria",,,,,,,female,Y,SANTA MONICA,UNITED STATES,Y
+1099,1100,3rd,"O'Sullivan, Miss Bridget",,,,,,,female,Y,RIO DE JANEIRO,BRAZIL,N
+1100,1101,3rd,"Panula, Mr Ernesti Arvid",,,,,,,male,Y,EDINBURGH,SCOTLAND,N
+1101,1102,3rd,"Panula, Mr Jaako Arnold",,,,,,,male,Y,CAPE TOWN,SOUTH AFRICA,N
+1102,1103,3rd,"Panula, Master Juha Niilo",,,,,,,male,N,BEIJING,CHINA,N
+1103,1104,3rd,"Panula, Mrs John",,,,,,,female,Y,EDINBURGH,SCOTLAND,N
+1104,1105,3rd,"Panula, Master Urho Abraham",,,,,,,male,N,MONTREAL,CANADA,N
+1105,1106,3rd,"Panula, Master William",,,,,,,male,Y,ISTANBUL,TURKEY,N
+1106,1107,3rd,"Pasic, Mr Jakob",,,,,,,male,N,CAPE TOWN,SOUTH AFRICA,N
+1107,1108,3rd,"Paulner, Mr Uscher",,,,,,,male,N,HONG KONG,CHINA,N
+1108,1109,3rd,"Paulsson, Master Gosta Leonard",,,,,,,male,N,CAPE TOWN,SOUTH AFRICA,N
+1109,1110,3rd,"Paulsson, Mrs Nils",,,,,,,female,Y,CHICAGO,UNITED STATES,N
+1110,1111,3rd,"Paulsson, Master Paul Folke",,,,,,,male,N,BEIJING,CHINA,N
+1111,1112,3rd,"Paulsson, Miss Stina Viola",,,,,,,female,N,,,N
+1112,1113,3rd,"Paulsson, Miss Torborg Danira",,,,,,,female,N,,,N
+1113,1114,3rd,"Pavlovic, Mr Stefo",,,,,,,male,N,HONOLULU,HAWAII,N
+1114,1115,3rd,"Peacock, Master Alfred Edward",,,,,,,male,N,TEL AVIV,ISRAEL,N
+1115,1116,3rd,"Peacock, Mrs Benjamin",,,,,,,female,N,EDINBURGH,SCOTLAND,N
+1116,1117,3rd,"Peacock, Miss Treasteall",,,,,,,female,Y,EDINBURGH,SCOTLAND,N
+1117,1118,3rd,"Pearce, Mr Ernest",,,,,,,male,N,BEIJING,CHINA,N
+1118,1119,3rd,"Pecruic, Mr Mate",,,,,,,male,Y,ISTANBUL,TURKEY,N
+1119,1120,3rd,"Pecruic, Mr Tome",,,,,,,male,N,NEW YORK,UNITED STATES,N
+1120,1121,3rd,"Pedersen, Mr Olaf",,,,,,,male,N,BEIJING,CHINA,N
+1121,1122,3rd,"Peduzzi, Mr Joseph",,,,,,,male,N,CHICAGO,UNITED STATES,N
+1122,1123,3rd,"Pekoniemi, Mr Edvard",,,,,,,male,N,VANCOUVER,BRITISH COLUMBIA,Y
+1123,1124,3rd,"Peltomaki, Nikolai Johannes",,,,,,,male,Y,NICE,FRANCE,N
+1124,1125,3rd,"Perkin, Mr John Henry",,,,,,,male,N,CHICAGO,UNITED STATES,N
+1125,1126,3rd,"Persson, Mr Ernst Ulrik",,,,,,,male,Y,LONDON,UNITED KINGDOM,Y
+1126,1127,3rd,"Peter (Joseph), Miss Mary",,,,,,,female,Y,EDINBURGH,SCOTLAND,N
+1127,1128,3rd,"Peter (Joseph), Mrs Catherine",,,,,,,female,Y,MONTREAL,CANADA,N
+1128,1129,3rd,"Peter (Joseph), Master Michael J.",,,,,,,male,N,SANTA MONICA,UNITED STATES,N
+1129,1130,3rd,"Peters, Miss Katie",,,,,,,female,N,KUALA LUMPUR,MALAYSIA,N
+1130,1131,3rd,"Petersen, Mr Marius",,,,,,,male,N,EDINBURGH,SCOTLAND,N
+1131,1132,3rd,"Petranec, Miss Matilda",,,,,,,female,N,ISTANBUL,TURKEY,N
+1132,1133,3rd,"Petroff, Mr Nedeca",,,,,,,male,N,KUALA LUMPUR,MALAYSIA,N
+1133,1134,3rd,"Petroff, Mr Pentcho",,,,,,,male,Y,CHICAGO,UNITED STATES,N
+1134,1135,3rd,"Pettersson, Miss Ellen Natalia",,,,,,,female,Y,LONDON,UNITED KINGDOM,N
+1135,1136,3rd,"Peterson, Mr Johan Emil",,,,,,,male,N,KUALA LUMPUR,MALAYSIA,N
+1136,1137,3rd,"Pickard (Trembisky), Mr Berk",,,,,,,male,N,ISTANBUL,TURKEY,Y
+1137,1138,3rd,"Plotcharsky, Mr Vasil",,,,,,,male,N,CAPE TOWN,SOUTH AFRICA,N
+1138,1139,3rd,"Potchett, Mr George",,,,,,,male,N,SYDNEY,AUSTRALIA,N
+1139,1140,3rd,"Radeff, Mr Alexander",,,,,,,male,N,LONDON,UNITED KINGDOM,N
+1140,1141,3rd,"Raibid, Mr Razi",,,,,,,male,N,MONTREAL,CANADA,N
+1141,1142,3rd,"Reed, Mr James George",,,,,,,male,Y,,,N
+1142,1143,3rd,"Reynolds, Mr Harold",,,,,,,male,Y,NICE,FRANCE,N
+1143,1144,3rd,"Rice, Master Albert",,,,,,,male,N,MIAMI BEACH,FLORIDA,N
+1144,1145,3rd,"Rice, Master Arthur",,,,,,,male,N,KUALA LUMPUR,MALAYSIA,N
+1145,1146,3rd,"Rice, Master George",,,,,,,male,Y,CHICAGO,UNITED STATES,N
+1146,1147,3rd,"Rice, Master Eric",,,,,,,male,N,CHICAGO,UNITED STATES,N
+1147,1148,3rd,"Rice, Master Eugene",,,,,,,male,Y,LONDON,UNITED KINGDOM,N
+1148,1149,3rd,"Rice, Mrs William",,,,,,,female,N,NICE,FRANCE,N
+1149,1150,3rd,"Riihiivouri, Miss Sanni",,,,,,,female,N,,,N
+1150,1151,3rd,"Rintamaki, Mr Matti",,,,,,,male,Y,,,N
+1151,1152,3rd,"Riordan, Miss Hannah",,,,,,,female,Y,,,Y
+1152,1153,3rd,"Risien, Mr Samuel",,,,,,,male,Y,ISTANBUL,TURKEY,N
+1153,1154,3rd,"Risien, Mrs Samuel",,,,,,,female,N,,,N
+1154,1155,3rd,"Robins, Mr Alexander A.",,,,,,,male,N,SYDNEY,AUSTRALIA,N
+1155,1156,3rd,"Robins, Mrs Alexander A.",,,,,,,female,N,HONG KONG,CHINA,N
+1156,1157,3rd,"Rommetvedt, Mr Karl Kristian Knut",,,,,,,male,N,HONG KONG,CHINA,N
+1157,1158,3rd,"Rogers, Mr William John",,,,,,,male,N,,,N
+1158,1159,3rd,"Rosblom, Mrs Viktor",,,,,,,female,Y,CAPE TOWN,SOUTH AFRICA,N
+1159,1160,3rd,"Rosblom, Miss Salli Helena",,,,,,,female,Y,EDINBURGH,SCOTLAND,N
+1160,1161,3rd,"Rosblom, Mr Viktor Rickard",,,,,,,male,N,BEIJING,CHINA,N
+1161,1162,3rd,"Roth, Miss Sarah",,,,,,,female,N,,,Y
+1162,1163,3rd,"Rouse, Mr Richard Henry",,,,,,,male,Y,MONTREAL,CANADA,N
+1163,1164,3rd,"Rush, Mr Alfred George John",,,,,,,male,Y,SYDNEY,AUSTRALIA,N
+1164,1165,3rd,"Ryan, Mr Edward Ryan",,,,,,,male,N,TEL AVIV,ISRAEL,Y
+1165,1166,3rd,"Ryan, Mr Patrick",,,,,,,male,N,,,N
+1166,1167,3rd,"Saad, Mr Amin",,,,,,,male,Y,ISTANBUL,TURKEY,N
+1167,1168,3rd,"Saad, Khalil",,,,,,,male,Y,NICE,FRANCE,Y
+1168,1169,3rd,"Sadlier, Mr Matthew",,,,,,,male,Y,,,N
+1169,1170,3rd,"Sadowitz, Mr Harry",,,,,,,male,Y,CHICAGO,UNITED STATES,N
+1170,1171,3rd,"Sage, Miss Ada",,,,,,,female,N,CHICAGO,UNITED STATES,N
+1171,1172,3rd,"Sage, Miss Constance",,,,,,,female,Y,ISTANBUL,TURKEY,N
+1172,1173,3rd,"Sage, Miss Dorothy",,,,,,,female,Y,BEIJING,CHINA,N
+1173,1174,3rd,"Sage, Mr Douglas",,,,,,,male,Y,,,N
+1174,1175,3rd,"Sage, Mr Frederick",,,,,,,male,Y,HONG KONG,CHINA,N
+1175,1176,3rd,"Sage, Mr George",,,,,,,male,N,CHICAGO,UNITED STATES,N
+1176,1177,3rd,"Sage, Mr John",,,,,,,male,N,CAPE TOWN,SOUTH AFRICA,N
+1177,1178,3rd,"Sage, Mrs John",,,,,,,female,N,,,N
+1178,1179,3rd,"Sage, Miss Stella",,,,,,,female,N,SYDNEY,AUSTRALIA,N
+1179,1180,3rd,"Sage, Thomas (child)",,,,,,,male,Y,EDINBURGH,SCOTLAND,N
+1180,1181,3rd,"Sage, Master William",,,,,,,male,N,CAPE TOWN,SOUTH AFRICA,N
+1181,1182,3rd,"Salander, Mr Karl Johan",,,,,,,male,Y,NEW YORK,UNITED STATES,N
+1182,1183,3rd,"Salkjelsvik, Miss Anna",,,,,,,female,N,MIAMI BEACH,FLORIDA,Y
+1183,1184,3rd,"Salonen, Mr Johan Werner",,,,,,,male,Y,CHICAGO,UNITED STATES,N
+1184,1185,3rd,"Samaan, Mr Elias",,,,,,,male,Y,BEIJING,CHINA,N
+1185,1186,3rd,"Samaan, Mr Hanna",,,,,,,male,Y,BEIJING,CHINA,N
+1186,1187,3rd,"Samaan, Mr Youssef",,,,,,,male,N,MONTREAL,CANADA,N
+1187,1188,3rd,"Sandstrom, Miss Hjalmar",,,,,,,female,Y,BEIJING,CHINA,Y
+1188,1189,3rd,"Sandstrom, Miss Beatrice Irene",,,,,,,female,N,BEIJING,CHINA,N
+1189,1190,3rd,"Sandstrom, Miss Marguerite Rut",,,,,,,female,N,ISTANBUL,TURKEY,N
+1190,1191,3rd,"Sather, Simon Sivertsen",,,,,,,male,N,NICE,FRANCE,N
+1191,1192,3rd,"Saundercock, William Henry",,,,,,,male,N,BEIJING,CHINA,N
+1192,1193,3rd,"Sawyer, Mr Frederick",,,,,,,male,Y,SANTA MONICA,UNITED STATES,N
+1193,1194,3rd,"Scanlan, Mr James",,,,,,,male,Y,BEIJING,CHINA,N
+1194,1195,3rd,"Sdycoff, Mr Todor",,,,,,,male,N,EDINBURGH,SCOTLAND,N
+1195,1196,3rd,Seman Master Betros,,,,,,,male,Y,MONTREAL,CANADA,N
+1196,1197,3rd,"Serota, Mr Maurice",,,,,,,male,N,KUALA LUMPUR,MALAYSIA,N
+1197,1198,3rd,"Shaughnesay, Mr Patrick",,,,,,,male,N,HONG KONG,CHINA,N
+1198,1199,3rd,"Shedid (Sitik), Mr Daher (Docart)",,,,,,,male,Y,BEIJING,CHINA,N
+1199,1200,3rd,"Sheerlinck, Mr Jean",,,,,,,male,N,RIO DE JANEIRO,BRAZIL,Y
+1200,1201,3rd,"Shellard, Mr Frederick B.",,,,,,,male,N,HONG KONG,CHINA,N
+1201,1202,3rd,"Shine, Miss Ellen",,,,,,,female,N,BARCELONA,SPAIN,Y
+1202,1203,3rd,"Shorney, Mr Charles",,,,,,,male,N,CAPE TOWN,SOUTH AFRICA,N
+1203,1204,3rd,"Simmons, Mr John",,,,,,,male,N,CHICAGO,UNITED STATES,N
+1204,1205,3rd,"Sirayanian, Mr Arsun",,,,,,,male,Y,KUALA LUMPUR,MALAYSIA,N
+1205,1206,3rd,"Sivic, Mr Husen",,,,,,,male,N,,,N
+1206,1207,3rd,"Sivola, Mr Antti",,,,,,,male,N,NICE,FRANCE,N
+1207,1208,3rd,"Sjoblom, Miss Anna Sofia",,,,,,,female,N,NICE,FRANCE,Y
+1208,1209,3rd,"Sholt, Mr Peter Andreas Lauritz Andersen",,,,,,,male,N,ISTANBUL,TURKEY,N
+1209,1210,3rd,"Skinner, Mr Henry John",,,,,,,male,Y,MONTREAL,CANADA,N
+1210,1211,3rd,"Skoog, Master Harald",,,,,,,male,N,HONOLULU,HAWAII,N
+1211,1212,3rd,"Skoog, Master Karl",,,,,,,male,N,EDINBURGH,SCOTLAND,N
+1212,1213,3rd,"Skoog, Miss Mabel",,,,,,,female,N,ISTANBUL,TURKEY,N
+1213,1214,3rd,"Skoog, Miss Margit",,,,,,,female,N,ISTANBUL,TURKEY,N
+1214,1215,3rd,"Skoog, Mr William",,,,,,,male,Y,,,N
+1215,1216,3rd,"Skoog, Mrs William",,,,,,,female,Y,HONG KONG,CHINA,N
+1216,1217,3rd,"Slabenoff, Mr Petco",,,,,,,male,N,,,N
+1217,1218,3rd,"Slocovski, Mr Selman",,,,,,,male,N,EDINBURGH,SCOTLAND,N
+1218,1219,3rd,"Smiljanovic, Mr Mile",,,,,,,male,N,KUALA LUMPUR,MALAYSIA,N
+1219,1220,3rd,"Smyth, Miss Julia",,,,,,,female,N,BARCELONA,SPAIN,Y
+1220,1221,3rd,"Solvang, Mrs Lena Jacobsen",,,,,,,female,N,TEL AVIV,ISRAEL,N
+1221,1222,3rd,"Somerton, Mr Francis William",,,,,,,male,N,KUALA LUMPUR,MALAYSIA,N
+1222,1223,3rd,"Sop, Mr Jules",,,,,,,male,Y,SYDNEY,AUSTRALIA,Y
+1223,1224,3rd,"Spector, Mr Woolf",,,,,,,male,N,EDINBURGH,SCOTLAND,N
+1224,1225,3rd,"Staneff, Mr Ivan",,,,,,,male,N,BARCELONA,SPAIN,N
+1225,1226,3rd,"Stankovic, Mr Jovan",,,,,,,male,Y,BEIJING,CHINA,N
+1226,1227,3rd,"Stanley, Miss Amy Zilla Elsie",,,,,,,female,Y,CAPE TOWN,SOUTH AFRICA,Y
+1227,1228,3rd,"Stanley, Mr Edward Roland",,,,,,,male,N,,,N
+1228,1229,3rd,"Storey, Mr Thomas",,,,,,,male,N,,,N
+1229,1230,3rd,"Stoyehoff, Mr Ilia",,,,,,,male,Y,KUALA LUMPUR,MALAYSIA,N
+1230,1231,3rd,"Strandberg, Miss Ida Sofia",,,,,,,female,Y,,,N
+1231,1232,3rd,"Stranden, Mr Juho",,,,,,,male,N,RIO DE JANEIRO,BRAZIL,Y
+1232,1233,3rd,"Strilic, Mr Ivan",,,,,,,male,N,CHICAGO,UNITED STATES,N
+1233,1234,3rd,"Strom, Mrs Wilhelm",,,,,,,female,N,,,N
+1234,1235,3rd,"Strom, Miss Telma (Selma) Matilda",,,,,,,female,Y,ISTANBUL,TURKEY,N
+1235,1236,3rd,"Sunderland, Mr Victor Francis",,,,,,,male,N,CHICAGO,UNITED STATES,Y
+1236,1237,3rd,"Sundman, Mr Johan Julian",,,,,,,male,Y,CHICAGO,UNITED STATES,N
+1237,1238,3rd,"Sutehall, Mr Henry, Jr",,,,,,,male,Y,RIO DE JANEIRO,BRAZIL,N
+1238,1239,3rd,"Svensson, Mr Johan",,,,,,,male,N,,,N
+1239,1240,3rd,"Svensson, Mr Johan Cervin",,,,,,,male,N,SANTA MONICA,UNITED STATES,Y
+1240,1241,3rd,"Svensson, Mr Olof",,,,,,,male,N,ISTANBUL,TURKEY,N
+1241,1242,3rd,"Tannous, Mr Thomas",,,,,,,male,N,MONTREAL,CANADA,N
+1242,1243,3rd,"Tenglin, Mr Gunnar Isidor",,,,,,,male,N,VANCOUVER,BRITISH COLUMBIA,Y
+1243,1244,3rd,"Theobald, Mr Thomas Leonard",,,,,,,male,N,EDINBURGH,SCOTLAND,N
+1244,1245,3rd,"Thomas, Mrs Alexander",,,,,,,female,N,,,Y
+1245,1246,3rd,"Thomas, Master Assad Alexander",,,,,,,male,Y,HONG KONG,CHINA,N
+1246,1247,3rd,"Thomas, Mr Charles",,,,,,,male,N,MONTREAL,CANADA,N
+1247,1248,3rd,"Thomas, Mr John, Jr",,,,,,,male,N,LONDON,UNITED KINGDOM,N
+1248,1249,3rd,"Thomas, Mr John (? 1st/2nd class)",,,,,,,male,Y,MONTREAL,CANADA,N
+1249,1250,3rd,"Thomson, Mr Alexander",,,,,,,male,N,SYDNEY,AUSTRALIA,N
+1250,1251,3rd,"Thorneycroft, Mr Percival",,,,,,,male,N,VANCOUVER,BRITISH COLUMBIA,N
+1251,1252,3rd,"Thorneycroft, Mrs Percival",,,,,,,female,Y,RIO DE JANEIRO,BRAZIL,Y
+1252,1253,3rd,"Tikkanen, Mr Juho",,,,,,,male,N,ISTANBUL,TURKEY,N
+1253,1254,3rd,"Tobin, Mr Roger",,,,,,,male,Y,EDINBURGH,SCOTLAND,N
+1254,1255,3rd,"Todoroff, Mr Lalio",,,,,,,male,Y,KUALA LUMPUR,MALAYSIA,N
+1255,1256,3rd,"Toerber, Mr Ernest William",,,,,,,male,N,EDINBURGH,SCOTLAND,N
+1256,1257,3rd,"Tomlin, Mr Ernest Portage",,,,,,,male,Y,CHICAGO,UNITED STATES,N
+1257,1258,3rd,"Torfa, Mr Assad",,,,,,,male,N,CHICAGO,UNITED STATES,N
+1258,1259,3rd,"Tornquist, Mr William Henry",,,,,,,male,N,RIO DE JANEIRO,BRAZIL,Y
+1259,1260,3rd,"Touma (Thomas), Mrs Darwin",,,,,,,female,N,,,N
+1260,1261,3rd,"Touma (Thomas), Master George",,,,,,,male,N,,,N
+1261,1262,3rd,"Touma (Thomas), Miss Hannah",,,,,,,female,N,MONTREAL,CANADA,N
+1262,1263,3rd,"Turcin, Mr Stefan",,,,,,,male,N,BEIJING,CHINA,N
+1263,1264,3rd,"Turja, Miss Anna Sofia",,,,,,,female,Y,,,Y
+1264,1265,3rd,"Turkula, Mrs Hedvig",,,,,,,female,Y,CAPE TOWN,SOUTH AFRICA,N
+1265,1266,3rd,"Uzelas, Mr Joso",,,,,,,male,Y,BEIJING,CHINA,N
+1266,1267,3rd,"Van Billiard, Mr Austin Blyler",,,,,,,male,Y,TEL AVIV,ISRAEL,N
+1267,1268,3rd,"Van Billiard, Master James William",,,,,,,male,Y,MONTREAL,CANADA,N
+1268,1269,3rd,"Van Billiard, Master Walter John",,,,,,,male,N,ISTANBUL,TURKEY,N
+1269,1270,3rd,"Van der Planke, Miss Augusta",,,,,,,female,N,SYDNEY,AUSTRALIA,N
+1270,1271,3rd,"Van der Planke, Mr Jules",,,,,,,male,Y,CHICAGO,UNITED STATES,N
+1271,1272,3rd,"Van der Planke, Mrs Jules",,,,,,,female,N,,,N
+1272,1273,3rd,"Van der Planke, Mr Leon",,,,,,,male,Y,MONTREAL,CANADA,N
+1273,1274,3rd,"Van der Steen, Mr Leo Peter",,,,,,,male,N,EDINBURGH,SCOTLAND,N
+1274,1275,3rd,"Van de Velde, Mr John Joseph",,,,,,,male,Y,EDINBURGH,SCOTLAND,N
+1275,1276,3rd,"Vandewalle, Mr Nestor Cyriel",,,,,,,male,N,MONTREAL,CANADA,N
+1276,1277,3rd,"Van Impe, Miss Catharine",,,,,,,female,N,SANTA MONICA,UNITED STATES,N
+1277,1278,3rd,"Van Impe, Mr Jean Baptiste",,,,,,,male,Y,,,N
+1278,1279,3rd,"Van Impe, Mrs Jean Baptiste",,,,,,,female,N,,,N
+1279,1280,3rd,"Vartunian, Mr David",,,,,,,male,N,VANCOUVER,BRITISH COLUMBIA,Y
+1280,1281,3rd,"Vassilios, Mr Catavelas",,,,,,,male,N,KUALA LUMPUR,MALAYSIA,N
+1281,1282,3rd,"Vendel, Mr Olof Wdvin",,,,,,,male,N,ISTANBUL,TURKEY,N
+1282,1283,3rd,"Vereruysse, Mr Victor",,,,,,,male,N,ISTANBUL,TURKEY,N
+1283,1284,3rd,"Vestrom, Miss Hulda Amanda Adolfina",,,,,,,female,N,BEIJING,CHINA,N
+1284,1285,3rd,"Vonk, Mr Jenko",,,,,,,male,N,MONTREAL,CANADA,N
+1285,1286,3rd,"Ware, Mr Frederick",,,,,,,male,N,LONDON,UNITED KINGDOM,N
+1286,1287,3rd,"Warren, Mr Charles William",,,,,,,male,N,BEIJING,CHINA,N
+1287,1288,3rd,"Wazli, Mr Yousif",,,,,,,male,Y,,,N
+1288,1289,3rd,"Webber, Mr James",,,,,,,male,Y,LONDON,UNITED KINGDOM,N
+1289,1290,3rd,"Wennerstrom, Mr August Edvard",,,,,,,male,N,LONDON,UNITED KINGDOM,Y
+1290,1291,3rd,"Wenzel, Mr Linhart",,,,,,,male,N,CAPE TOWN,SOUTH AFRICA,N
+1291,1292,3rd,"Widegren, Mr Charles Peter",,,,,,,male,Y,ISTANBUL,TURKEY,N
+1292,1293,3rd,"Wiklund, Mr Jacob Alfred",,,,,,,male,Y,NICE,FRANCE,N
+1293,1294,3rd,"Wilkes, Mrs Ellen",,,,,,,female,Y,ISTANBUL,TURKEY,Y
+1294,1295,3rd,"Willer, Mr Aaron",,,,,,,male,Y,LONDON,UNITED KINGDOM,N
+1295,1296,3rd,"Willey, Mr Edward",,,,,,,male,Y,ISTANBUL,TURKEY,N
+1296,1297,3rd,"Williams, Mr Howard Hugh",,,,,,,male,Y,KUALA LUMPUR,MALAYSIA,N
+1297,1298,3rd,"Williams, Mr Leslie",,,,,,,male,N,NICE,FRANCE,N
+1298,1299,3rd,"Windelov, Mr Einar",,,,,,,male,N,HONG KONG,CHINA,N
+1299,1300,3rd,"Wirz, Mr Albert",,,,,,,male,Y,NEW YORK,UNITED STATES,N
+1300,1301,3rd,"Wiseman, Mr Phillippe",,,,,,,male,Y,MONTREAL,CANADA,N
+1301,1302,3rd,"Wittevrongel, Mr Camiel",,,,,,,male,N,NEW YORK,UNITED STATES,N
+1302,1303,3rd,"Yalsevac, Mr Ivan",,,,,,,male,Y,TEL AVIV,ISRAEL,Y
+1303,1304,3rd,"Yasbeck, Mr Antoni",,,,,,,male,N,HONG KONG,CHINA,N
+1304,1305,3rd,"Yasbeck, Mrs Antoni",,,,,,,female,Y,CHICAGO,UNITED STATES,Y
+1305,1306,3rd,"Youssef, Mr Gerios",,,,,,,male,Y,NICE,FRANCE,N
+1306,1307,3rd,"Zabour, Miss Hileni",,,,,,,female,N,CHICAGO,UNITED STATES,N
+1307,1308,3rd,"Zabour, Miss Tamini",,,,,,,female,Y,HONG KONG,CHINA,N
+1308,1309,3rd,"Zakarian, Mr Artun",,,,,,,male,N,CHICAGO,UNITED STATES,N
+1309,1310,3rd,"Zakarian, Mr Maprieder",,,,,,,male,N,BEIJING,CHINA,N
+1310,1311,3rd,"Zenn, Mr Philip",,,,,,,male,N,CHICAGO,UNITED STATES,N
+1311,1312,3rd,"Zievens, Rene",,,,,,,female,N,KUALA LUMPUR,MALAYSIA,N
+1312,1313,3rd,"Zimmerman, Leo",,,,,,,male,N,KUALA LUMPUR,MALAYSIA,N
